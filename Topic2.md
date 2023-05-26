@@ -8,21 +8,21 @@ Each chart widget may be used once, more than once, or not at all. You may need 
 
 NOTE: Each correct selection is worth one point.
 
-####  The elapsed time from the creation of work items to their completion
+**The elapsed time from the creation of work items to their completion**
 
 -   [ ] Burndown
 -   [ ] Cycle Time
 -   [ ] Lead Time
 -   [ ] Velocity
 
-####  The elapsed time to complete work items once they are active
+**The elapsed time to complete work items once they are active**
 
 -   [ ] Burndown
 -   [ ] Cycle Time
 -   [ ] Lead Time
 -   [ ] Velocity
 
-####  The remaining work
+**The remaining work**
 
 -   [ ] Burndown
 -   [ ] Cycle Time
@@ -54,14 +54,14 @@ requests
 | render timechart
 ```
 
-#### 1. To create an alert based on the page load experience of most users, the alerting level must be based on
+**1. To create an alert based on the page load experience of most users, the alerting level must be based on**
 
 -   [ ] percentile_duration_50
 -   [ ] percentile_duration_90
 -   [ ] percentile_duration_95
 -   [ ] threshold
 
-#### 2. To only create an alert when authentication error occurs on the server, the query must be filtered on
+**2. To only create an alert when authentication error occurs on the server, the query must be filtered on**
 
 -   [ ] item Type
 -   [ ] resultCode
@@ -302,19 +302,19 @@ Your company wants to use Azure Application Insights to understand how user beha
 
 Which Application Insights tool should you use to analyze each behavior? To
 
-#### 1. Feature usage:
+**1. Feature usage:**
 
 -   [ ] impact
 -   [ ] UserFlows
 -   [ ] Users
 
-#### 2. Number of people who used the actions and its features:
+**2. Number of people who used the actions and its features:**
 
 -   [ ] impact
 -   [ ] UserFlows
 -   [ ] Users
 
-#### 3. The effect that the performance of the application has on the usage of a page or a feature
+**3. The effect that the performance of the application has on the usage of a page or a feature**
 
 -   [ ] impact
 -   [ ] UserFlows
@@ -498,7 +498,7 @@ What should you use?
 
 You have a project in Azure DevOps named Contoso App that contains pipelines in Azure Pipelines for GitHub repositories.
 
-You need to ensure that developers receive Microsoft Teams noti􀂦cations when there are failures in a pipeline of Contoso App.
+You need to ensure that developers receive Microsoft Teams notifications when there are failures in a pipeline of Contoso App.
 
 What should you run in Teams?
 
