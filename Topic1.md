@@ -7,13 +7,10 @@ active.
 
 Which of the following is the widget you should use?
 
-A. Cumulative Flow Diagram
-
-B. Burnup
-
-C. Cycle time
-
-D. Burndown
+- [ ] A. Cumulative Flow Diagram
+- [ ] B. Burnup
+- [ ] C. Cycle time
+- [ ] D. Burndown
 
 <details>
     <summary>answer</summary>
@@ -27,13 +24,10 @@ D. Burndown
 
 The Burn-up widget measures the \_\_\_ from creation of work items to their completion.
 
-A. No adjustment required.
-
-B. Lead time
-
-C. Test results trend
-
-D. Burn-down
+- [ ] A. No adjustment required.
+- [ ] B. Lead time
+- [ ] C. Test results trend
+- [ ] D. Burn-down
 
 <details>
     <summary>answer</summary>
@@ -53,13 +47,13 @@ You have been informed that the management of users and licenses must be automat
 
 Which of the following is a task that can't be automated?
 
-A. Group membership changes
+- [ ] A. Group membership changes
 
-B. License assignment
+- [ ] B. License assignment
 
-C. Assigning entitlements
+- [ ] C. Assigning entitlements
 
-D. License procurement
+- [ ] D. License procurement
 
 <details>
     <summary>answer</summary>
@@ -76,13 +70,13 @@ You need to suggest a security tool type for the Continuous Integration (CI) pha
 
 Which of the following is the option you would suggest?
 
-A. Penetration testing
+- [ ] A. Penetration testing
 
-B. Static code analysis
+- [ ] B. Static code analysis
 
-C. Threat modeling
+- [ ] C. Threat modeling
 
-D. Dynamic code analysis
+- [ ] D. Dynamic code analysis
 
 <details>
     <summary>answer</summary>
@@ -101,13 +95,13 @@ You want to make sure that the work item process you use for the client allows f
 
 Which of the following is the option you would choose?
 
-A. Basic
+- [ ] A. Basic
 
-B. Agile
+- [ ] B. Agile
 
-C. Scrum
+- [ ] C. Scrum
 
-D. CMMI
+- [ ] D. CMMI
 
 <details>
     <summary>answer</summary>
@@ -131,8 +125,8 @@ Solution: You set the -ConfigurationMode parameter to ApplyOnly.
 
 Does the solution meet the goal?
 
-A. YES
-B. NO
+- [ ] A. YES
+- [ ] B. NO
 
 <details>
     <summary>answer</summary>
@@ -156,8 +150,8 @@ Solution: You set the -ConfigurationMode parameter to ApplyAndMonitor.
 
 Does the solution meet the goal?
 
-A. YES
-B. NO
+- [ ] A. YES
+- [ ] B. NO
 
 <details>
     <summary>answer</summary>
@@ -181,8 +175,8 @@ Solution: You set the -ConfigurationMode parameter to ApplyAndAutocorrect.
 
 Does the solution meet the goal?
 
-A. YES
-B. NO
+- [ ] A. YES
+- [ ] B. NO
 
 <details>
     <summary>answer</summary>
@@ -200,10 +194,10 @@ You are instructed to make sure that the Azure DevOps environment can only be ac
 
 Which of the following actions should you take?
 
-A. Assign the devices to a security group.
-B. Create a GPO.
-C. Configure Security in Project Settings from Azure DevOps.
-D. Configure conditional access in Azure Active Directory.
+- [ ] A. Assign the devices to a security group.
+- [ ] B. Create a GPO.
+- [ ] C. Configure Security in Project Settings from Azure DevOps.
+- [ ] D. Configure conditional access in Azure Active Directory.
 
 <details>
     <summary>answer</summary>
@@ -221,10 +215,10 @@ The strategy should allow you to keep the time it takes to deploy new releases o
 
 Which of the following is the release strategy you should use?
 
-A. Red/Black deployment
-B. Rolling deployment
-C. ג€Big Bang ג€ deployment
-D. Canary deployment
+- [ ] A. Red/Black deployment
+- [ ] B. Rolling deployment
+- [ ] C. ג€Big Bang ג€ deployment
+- [ ] D. Canary deployment
 
 <details>
     <summary>answer</summary>
@@ -246,10 +240,10 @@ You need to make sure that releases not satisfying the performance baseline are 
 
 Which of the following actions should you take?
 
-A. You should make use of a branch control check.
-B. You should make use of an alert trigger.
-C. You should make use of a gate.
-D. You should make use of an approval check.
+- [ ] A. You should make use of a branch control check.
+- [ ] B. You should make use of an alert trigger.
+- [ ] C. You should make use of a gate.
+- [ ] D. You should make use of an approval check.
 
 <details>
     <summary>answer</summary>
@@ -263,10 +257,10 @@ D. You should make use of an approval check.
 
 To deploy an application to a number of Azure virtual machines, you should create a \_\_\_ group.
 
-A. No adjustment required.
-B. security
-C. deployment
-D. resource
+- [ ] A. No adjustment required.
+- [ ] B. security
+- [ ] C. deployment
+- [ ] D. resource
 
 <details>
     <summary>answer</summary>
