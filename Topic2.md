@@ -574,10 +574,10 @@ What should you do?
 
 You create an alert rule in Azure Monitor.
 ```
-####RESOURCE :
+RESOURCE :
 ASP-9bb7
 
-####CONDITION :
+CONDITION :
 Whenever the Activity Log has an event with Category = 'Administrative' , Signal name = 'All Administrative operations', Status = 'failed'
 ```
 Which action will trigger an alert?
@@ -629,17 +629,17 @@ The alert must calculate the average once every minute.
 
 How should you configure the alert rule?
 
-####Aggregation granularity(Period):
+**Aggregation granularity(Period):**
 
 -   [ ] 1 minute
 -   [ ] 5 minutes
 
-####Threshold value:
+**Threshold value:**
 
 -   [ ] Static
 -   [ ] Dynamic
 
-####Operator:
+**Operator:**
 
 -   [ ] Greater than
 -   [ ] Greater than or equal to
