@@ -573,13 +573,13 @@ What should you do?
 ## Question 25
 
 You create an alert rule in Azure Monitor.
-
+```
 ####RESOURCE :
 ASP-9bb7
 
 ####CONDITION :
 Whenever the Activity Log has an event with Category = 'Administrative' , Signal name = 'All Administrative operations', Status = 'failed'
-
+```
 Which action will trigger an alert?
 
 -   [ ] A. a failed attempt to delete the ASP-9bb7 resource
@@ -590,6 +590,7 @@ Which action will trigger an alert?
 <details>
     <summary>answer</summary>
     A<br/>
+    <a href="https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/activity-log-schema#categories">Categories</a>
 </details>
 
 ---
