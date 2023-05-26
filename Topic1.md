@@ -305,10 +305,10 @@ You want to use a solitary feed to release several builds of each package. You h
 
 Which of the following actions should you take?
 
-A. You should make use of static code analysis.
-B. You should make use of views.
-C. You should make use of dynamic code analysis.
-D. You should make use of upstream sources.
+- [ ] A. You should make use of static code analysis.
+- [ ] B. You should make use of views.
+- [ ] C. You should make use of dynamic code analysis.
+- [ ] D. You should make use of upstream sources.
 
 <details>
     <summary>answer</summary>
@@ -322,10 +322,10 @@ D. You should make use of upstream sources.
 
 To find when common open source libraries are added to the code base, you should add \_\_\_ to the build pipeline.
 
-A. No adjustment required.
-B. SourceGear Vault
-C. Mend Bolt
-D. OWASP ZAP
+- [ ] A. No adjustment required.
+- [ ] B. SourceGear Vault
+- [ ] C. Mend Bolt
+- [ ] D. OWASP ZAP
 
 <details>
     <summary>answer</summary>
@@ -343,10 +343,10 @@ You have been tasked with making sure that you are able to scan project for comm
 
 Which of the following actions should you take?
 
-A. You should create a build task and use the WhiteSource Bolt service.
-B. You should create a deployment task and use the WhiteSource Bolt service.
-C. You should create a build task and use the Chef service.
-D. You should create a deployment task and use the Chef service.
+- [ ] A. You should create a build task and use the WhiteSource Bolt service.
+- [ ] B. You should create a deployment task and use the WhiteSource Bolt service.
+- [ ] C. You should create a build task and use the Chef service.
+- [ ] D. You should create a deployment task and use the Chef service.
 
 <details>
     <summary>answer</summary>
@@ -360,10 +360,10 @@ D. You should create a deployment task and use the Chef service.
 
 \_\_\_ can be used to make sure that all the open source libraries conform to your company's licensing criteria.
 
-A. No adjustment required.
-B. Maven
-C. Bamboo
-D. CMAKE
+- [ ] A. No adjustment required.
+- [ ] B. Maven
+- [ ] C. Bamboo
+- [ ] D. CMAKE
 
 <details>
     <summary>answer</summary>
@@ -385,11 +385,11 @@ You are preparing a deployment solution that allows for the virtual machines to 
 
 Which of the following should be part of your solution? (Choose two.)
 
-A. Azure Resource Manager templates
-B. The PowerShell Desired State Configuration (DSC) extension for Windows
-C. Azure pipeline deployment groups
-D. The Custom Script Extension for Windows
-E. Azure pipeline stage templates
+- [ ] A. Azure Resource Manager templates
+- [ ] B. The PowerShell Desired State Configuration (DSC) extension for Windows
+- [ ] C. Azure pipeline deployment groups
+- [ ] D. The Custom Script Extension for Windows
+- [ ] E. Azure pipeline stage templates
 
 <details>
     <summary>answer</summary>
@@ -405,10 +405,10 @@ Your company has a multi-tier application that has its front end hosted in Azure
 
 To pinpoint the average load times of the application pages, you should make use of \_\_\_.
 
-A. No adjustment required.
-B. Azure Application Insights
-C. Azure Log Analytics
-D. Azure Advisor
+- [ ] A. No adjustment required.
+- [ ] B. Azure Application Insights
+- [ ] C. Azure Log Analytics
+- [ ] D. Azure Advisor
 
 <details>
     <summary>answer</summary>
@@ -428,8 +428,8 @@ Solution: You use the <b>Contextual Query Language (CQL)</b>.
 
 Does the solution meet the goal?
 
-A. Yes
-B. No
+- [ ] A. Yes
+- [ ] B. No
 
 <details>
     <summary>answer</summary>
@@ -449,8 +449,8 @@ Solution: You use the <b>Transact-SQL</b>.
 
 Does the solution meet the goal?
 
-A. Yes
-B. No
+- [ ] A. Yes
+- [ ] B. No
 
 <details>
     <summary>answer</summary>
@@ -470,8 +470,8 @@ Solution: You use the <b> Azure Log Analytics </b>.
 
 Does the solution meet the goal?
 
-A. Yes
-B. No
+- [ ] A. Yes
+- [ ] B. No
 
 <details>
     <summary>answer</summary>
@@ -514,10 +514,10 @@ You want to make sure that crash reports for issue analysis is collected, and th
 
 Which of the following must be part of your solution?
 
-A. The Microsoft Test & Feedback extension.
-B. OWASP ZAP
-C. TFS Integration Platform
-D. Code Style
+- [ ] A. The Microsoft Test & Feedback extension.
+- [ ] B. OWASP ZAP
+- [ ] C. TFS Integration Platform
+- [ ] D. Code Style
 
 <details>
     <summary>answer</summary>
