@@ -663,14 +663,14 @@ You need to enable detailed logging by defining a pipeline variable.
 
 How should you configure the variable?
 
-####Name:
+**Name:**
 
 -   [ ] Debug
 -   [ ] Log
 -   [ ] System.Debug
 -   [ ] System.Log
 
-####Value:
+**Value:**
 
 -   [ ] 1
 -   [ ] detailed
