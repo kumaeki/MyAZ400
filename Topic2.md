@@ -794,7 +794,7 @@ What should you do?
 -   [ ] Modify the Usage and estimated costs settings
 <details>
     <summary>answer</summary>
-    From the code repository of webapp1: Modify ApplicationInsights.config<br/>
+    From the code repository of webapp1: <b>Modify ApplicationInsights.config</b>, but maybe<b>Disable adaptive sampling</b> is correct<br/>
     From appInsights1: Modify the Usage and estimated costs settings<br/>
 </details>
 
