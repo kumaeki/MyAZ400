@@ -837,5 +837,5 @@ In which order should you arrange the query statements?
 
 <details>
     <summary>answer</summary>
-    C, A, B, D, E<br/>
+    C, A, B, E, D<br/>
 </details>
