@@ -329,7 +329,7 @@ To find when common open source libraries are added to the code base, you should
 
 <details>
     <summary>answer</summary>
-    B<br/>
+    C<br/>
     <a href="https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/">https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/</a>
 </details>
 
