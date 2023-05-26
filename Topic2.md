@@ -8,21 +8,21 @@ Each chart widget may be used once, more than once, or not at all. You may need 
 
 NOTE: Each correct selection is worth one point.
 
-#### 1. The elapsed time from the creation of work items to their completion
+####  The elapsed time from the creation of work items to their completion
 
 -   [ ] Burndown
 -   [ ] Cycle Time
 -   [ ] Lead Time
 -   [ ] Velocity
 
-#### 2. The elapsed time to complete work items once they are active
+####  The elapsed time to complete work items once they are active
 
 -   [ ] Burndown
 -   [ ] Cycle Time
 -   [ ] Lead Time
 -   [ ] Velocity
 
-#### 3. The remaining work
+####  The remaining work
 
 -   [ ] Burndown
 -   [ ] Cycle Time
@@ -86,11 +86,11 @@ Which two resources should you include in the solution? Each correct answer pres
 
 NOTE: Each correct selection is worth one point.
 
-A. an Azure Automation runbook
-B. an Azure Monitor alert that has a dynamic threshold
-C. an Azure Monitor alert that has a static threshold
-D. the Azure Monitor autoscale settings
-E. an Azure Monitor alert that uses an action group that has an email action
+-   [ ] A. an Azure Automation runbook
+-   [ ] B. an Azure Monitor alert that has a dynamic threshold
+-   [ ] C. an Azure Monitor alert that has a static threshold
+-   [ ] D. the Azure Monitor autoscale settings
+-   [ ] E. an Azure Monitor alert that uses an action group that has an email action
 
 <details>
     <summary>answer</summary>
@@ -103,10 +103,15 @@ E. an Azure Monitor alert that uses an action group that has an email action
 ## Question 4
 
 You have an Azure Kubernetes Service (AKS) pod.
+
 You need to configure a probe to perform the following actions:
+
 ✑ Confirm that the pod is responding to service requests.
+
 ✑ Check the status of the pod four times a minute.
+
 ✑ Initiate a shutdown if the pod is unresponsive.
+
 How should you complete the YAML configuration file? To answer, select the appropriate options in the answer area.
 
 ```yml
