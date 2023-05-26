@@ -160,14 +160,14 @@ spec:
 
 You have a Microsoft ASP.NET Core web app in Azure that is accessed worldwide.
 
-You need to run a URL ping test once every 􀂦ve minutes and create an alert when the web app is unavailable from specific Azure regions. The solution must minimize development time.
+You need to run a URL ping test once every five minutes and create an alert when the web app is unavailable from specific Azure regions. The solution must minimize development time.
 
 What should you do?
 
-A. Create an Azure Monitor Availability metric and alert.
-B. Create an Azure Application Insights availability test and alert.
-C. Write an Azure function and deploy the function to the specific regions.
-D. Create an Azure Service Health alert for the specific regions.
+-   [ ] A. Create an Azure Monitor Availability metric and alert.
+-   [ ] B. Create an Azure Application Insights availability test and alert.
+-   [ ] C. Write an Azure function and deploy the function to the specific regions.
+-   [ ] D. Create an Azure Service Health alert for the specific regions.
 
 <details>
     <summary>answer</summary>
@@ -185,10 +185,10 @@ You need to identify the average load times of the application pages.
 
 What should you use?
 
-A. Azure Application Insights
-B. the activity log of the App Service
-C. the diagnostics logs of the App Service
-D. Azure Advisor
+-   [ ] A. Azure Application Insights
+-   [ ] B. the activity log of the App Service
+-   [ ] C. the diagnostics logs of the App Service
+-   [ ] D. Azure Advisor
 
 <details>
     <summary>answer</summary>
@@ -207,10 +207,10 @@ The company needs to generate a ticket in ServiceNow when the application fails 
 
 Which Azure Log Analytics solution should you use?
 
-A. Application Insights Connector
-B. Automation & Control
-C. IT Service Management Connector (ITSM)
-D. Insight & Analytics
+-   [ ] A. Application Insights Connector
+-   [ ] B. Automation & Control
+-   [ ] C. IT Service Management Connector (ITSM)
+-   [ ] D. Insight & Analytics
 
 <details>
     <summary>answer</summary>
@@ -259,10 +259,10 @@ You need to write ad-hoc queries against the monitoring data.
 
 Which query language should you use?
 
-A. Kusto Query Language (KQL)
-B. PL/pgSQL
-C. PL/SQL
-D. Transact-SQL
+-   [ ] A. Kusto Query Language (KQL)
+-   [ ] B. PL/pgSQL
+-   [ ] C. PL/SQL
+-   [ ] D. Transact-SQL
 
 <details>
     <summary>answer</summary>
@@ -282,11 +282,11 @@ Which two Azure services should you recommend? Each correct answer presents part
 
 NOTE: Each correct selection is worth one point.
 
-A. Azure Logic Apps
-B. Azure Pipelines
-C. Microsoft Visual Studio App Center
-D. Azure DevOps Project
-E. Azure Application Insights
+-   [ ] A. Azure Logic Apps
+-   [ ] B. Azure Pipelines
+-   [ ] C. Microsoft Visual Studio App Center
+-   [ ] D. Azure DevOps Project
+-   [ ] E. Azure Application Insights
 
 <details>
     <summary>answer</summary>
@@ -338,15 +338,17 @@ Your team uses Azure DevOps to manage all work items and release cycles.
 You need to recommend a solution to perform the following tasks:
 
 ✑ Collect crash reports for issue analysis.
+
 ✑ Distribute beta releases to your testers.
+
 ✑ Get user feedback on the functionality of new apps.
 
 What should you include in the recommendation?
 
-A. the Microsoft Test & Feedback extension
-B. Microsoft Visual Studio App Center integration
-C. Azure Application Insights widgets
-D. Jenkins integration
+-   [ ] A. the Microsoft Test & Feedback extension
+-   [ ] B. Microsoft Visual Studio App Center integration
+-   [ ] C. Azure Application Insights widgets
+-   [ ] D. Jenkins integration
 
 <details>
     <summary>answer</summary>
@@ -368,14 +370,13 @@ You plan to make a minor change to a UI element of WebApp1 and to gather user fe
 
 You need to implement limited user testing for the new version of WebApp1 on VMSS1.
 
-Which three actions should you perform? Each correct answer presents part of the solution.
-NOTE: Each correct selection is worth one point.
+Which three actions should you perform? 
 
-A. Modify the load balancer settings of VMSS1.
-B. Redeploy VMSS1.
-C. Upload a custom script file to sa1.
-D. Modify the Custom Script extension settings of VMSS1.
-E. Update the configuration of a virtual machine in VMSS1.
+-   [ ] A. Modify the load balancer settings of VMSS1.
+-   [ ] B. Redeploy VMSS1.
+-   [ ] C. Upload a custom script file to sa1.
+-   [ ] D. Modify the Custom Script extension settings of VMSS1.
+-   [ ] E. Update the configuration of a virtual machine in VMSS1.
 
 <details>
     <summary>answer</summary>
@@ -479,11 +480,11 @@ You need to ensure that an alert is sent when the web app has a sudden rise in p
 
 What should you use?
 
-A. custom events
-B. Application Insights Profiler
-C. usage analysis
-D. Smart Detection
-E. Continuous export
+-   [ ] A. custom events
+-   [ ] B. Application Insights Profiler
+-   [ ] C. usage analysis
+-   [ ] D. Smart Detection
+-   [ ] E. Continuous export
 
 <details>
     <summary>answer</summary>
@@ -534,10 +535,10 @@ You have a private GitHub repository.
 You need to display the commit status of the repository on Azure Boards.
 What should you do first?
 
-A. Configure multi-factor authentication (MFA) for your GitHub account.
-B. Add the Azure Pipelines app to the GitHub repository.
-C. Add the Azure Boards app to the repository.
-D. Create a GitHub action in GitHub.
+-   [ ] A. Configure multi-factor authentication (MFA) for your GitHub account.
+-   [ ] B. Add the Azure Pipelines app to the GitHub repository.
+-   [ ] C. Add the Azure Boards app to the repository.
+-   [ ] D. Create a GitHub action in GitHub.
 
 <details>
     <summary>answer</summary>
@@ -555,11 +556,11 @@ You need to receive Microsoft Teams notifications when work items are updated.
 
 What should you do?
 
-A. From Azure DevOps, configure a service hook subscription
-B. From Microsoft Teams, configure a connector
-C. From the Microsoft Teams admin center, configure external access
-D. From Microsoft Teams, add a channel
-E. From Azure DevOps, install an extension
+-   [ ] A. From Azure DevOps, configure a service hook subscription
+-   [ ] B. From Microsoft Teams, configure a connector
+-   [ ] C. From the Microsoft Teams admin center, configure external access
+-   [ ] D. From Microsoft Teams, add a channel
+-   [ ] E. From Azure DevOps, install an extension
 
 <details>
     <summary>answer</summary>
@@ -581,10 +582,10 @@ Whenever the Activity Log has an event with Category = 'Administrative' , Signal
 
 Which action will trigger an alert?
 
-A. a failed attempt to delete the ASP-9bb7 resource
-B. a change to a role assignment for the ASP-9bb7 resource
-C. a successful attempt to delete the ASP-9bb7 resource
-D. a failed attempt to scale up the ASP-9bb7 resource
+-   [ ] A. a failed attempt to delete the ASP-9bb7 resource
+-   [ ] B. a change to a role assignment for the ASP-9bb7 resource
+-   [ ] C. a successful attempt to delete the ASP-9bb7 resource
+-   [ ] D. a failed attempt to scale up the ASP-9bb7 resource
 
 <details>
     <summary>answer</summary>
@@ -601,9 +602,9 @@ You need to generate an alert when there are 10,000 simultaneous connections to 
 
 Which option should you select in the Diagnostics settings of the database?
 
-A. Send to Log Analytics
-B. Stream to an event hub
-C. Archive to a storage account
+-   [ ] A. Send to Log Analytics
+-   [ ] B. Stream to an event hub
+-   [ ] C. Archive to a storage account
 
 <details>
     <summary>answer</summary>
@@ -691,10 +692,10 @@ You need to plan and manage the consumers and producers for each project. The so
 
 What should you do?
 
-A. Add a Predecessor or Successor link to the feature or user story for the items of each project.
-B. Add a Parent or Child link to the feature or user story for the items of each project.
-C. Install the Dependency Tracker extension and create dependencies for each project.
-D. Create a custom query to show the consumers and producers and add a widget to a dashboard.
+-   [ ] A. Add a Predecessor or Successor link to the feature or user story for the items of each project.
+-   [ ] B. Add a Parent or Child link to the feature or user story for the items of each project.
+-   [ ] C. Install the Dependency Tracker extension and create dependencies for each project.
+-   [ ] D. Create a custom query to show the consumers and producers and add a widget to a dashboard.
 
 <details>
     <summary>answer</summary>
@@ -806,10 +807,10 @@ You need to ensure that webapp1 sends the telemetry data at a fixed sampling rat
 
 What should you do?
 
-A. From the code repository of webapp1, modify the ApplicationInsights.config file.
-B. From the code repository of webapp1, modify the Startup.cs file.
-C. From AppInsights1, modify the Usage and estimated costs settings.
-D. From AppInsights1, configure the Continuous export settings.
+-   [ ] A. From the code repository of webapp1, modify the ApplicationInsights.config file.
+-   [ ] B. From the code repository of webapp1, modify the Startup.cs file.
+-   [ ] C. From AppInsights1, modify the Usage and estimated costs settings.
+-   [ ] D. From AppInsights1, configure the Continuous export settings.
 
 <details>
     <summary>answer</summary>
