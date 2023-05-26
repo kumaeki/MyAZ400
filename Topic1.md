@@ -222,7 +222,7 @@ Which of the following is the release strategy you should use?
 
 <details>
     <summary>answer</summary>
-    A<br/>
+    B<br/>
     <a href="https://dev.to/mostlyjason/intro-to-deployment-strategies-blue-green-canary-and-more-3a3">https://dev.to/mostlyjason/intro-to-deployment-strategies-blue-green-canary-and-more-3a3</a>
 </details>
 
