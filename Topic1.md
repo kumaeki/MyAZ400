@@ -489,8 +489,6 @@ You have been tasked with making sure that a summary of the exceptions that tran
 
 Which of the following Azure services should you use?
 
-Does the solution meet the goal?
-
 -   [ ] Azure DevOps Project
 -   [ ] Azure Logic Apps
 -   [ ] Azure Pipelines
