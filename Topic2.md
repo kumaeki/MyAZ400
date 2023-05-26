@@ -829,11 +829,11 @@ You need to query Workspace1 for all log entries related to Asia that occurred d
 
 In which order should you arrange the query statements?
 
-**A: | where continent == 'Asia'**
-**B: | join ( Events**
-**C: Logs**
-**D: | where timestamp > ago(2d)**
-**E: ) on RequestId**
+-   [ ] **A: | where continent == 'Asia'**
+-   [ ] **B: | join ( Events**
+-   [ ] **C: Logs**
+-   [ ] **D: | where timestamp > ago(2d)**
+-   [ ] **E: ) on RequestId**
 
 <details>
     <summary>answer</summary>
