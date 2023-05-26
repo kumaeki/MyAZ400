@@ -217,7 +217,7 @@ Which of the following is the release strategy you should use?
 
 - [ ] A. Red/Black deployment
 - [ ] B. Rolling deployment
-- [ ] C. ג€Big Bang ג€ deployment
+- [ ] C. Big Bang deployment
 - [ ] D. Canary deployment
 
 <details>
