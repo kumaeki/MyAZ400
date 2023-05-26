@@ -151,6 +151,7 @@ spec:
     <summary>answer</summary>
     readinessProbe:<br/>
     periodSeconds: 15<br/>
+    <a href="https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/#configure-probes">Configure Probes</a>
 </details>
 
 ---
