@@ -4,11 +4,15 @@ You are configuring project metrics for dashboards in Azure DevOps.
 
 You need to configure a chart widget that measures the elapsed time to complete work items once they become
 active.
+
 Which of the following is the widget you should use?
 
 A. Cumulative Flow Diagram
+
 B. Burnup
+
 C. Cycle time
+
 D. Burndown
 
 <details>
@@ -24,8 +28,11 @@ D. Burndown
 The Burn-up widget measures the \_\_\_ from creation of work items to their completion.
 
 A. No adjustment required.
+
 B. Lead time
+
 C. Test results trend
+
 D. Burn-down
 
 <details>
@@ -47,8 +54,11 @@ You have been informed that the management of users and licenses must be automat
 Which of the following is a task that can't be automated?
 
 A. Group membership changes
+
 B. License assignment
+
 C. Assigning entitlements
+
 D. License procurement
 
 <details>
@@ -67,8 +77,11 @@ You need to suggest a security tool type for the Continuous Integration (CI) pha
 Which of the following is the option you would suggest?
 
 A. Penetration testing
+
 B. Static code analysis
+
 C. Threat modeling
+
 D. Dynamic code analysis
 
 <details>
@@ -89,8 +102,11 @@ You want to make sure that the work item process you use for the client allows f
 Which of the following is the option you would choose?
 
 A. Basic
+
 B. Agile
+
 C. Scrum
+
 D. CMMI
 
 <details>
