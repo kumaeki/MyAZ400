@@ -54,10 +54,10 @@ You confirm that standard metrics are visible in the logs, but when you test a f
 
 What prevents the Smart Detection notification from being sent?
 
-A. You must enable the Snapshot Debugger for the web app.
-B. Smart Detection uses the first 24 hours to establish the normal behavior of the web app.
-C. The web app is configured to use the shared service plan tier.
-D. You must restart the web app before Smart Detection is enabled.
+-   [ ] A. You must enable the Snapshot Debugger for the web app.
+-   [ ] B. Smart Detection uses the first 24 hours to establish the normal behavior of the web app.
+-   [ ] C. The web app is configured to use the shared service plan tier.
+-   [ ] D. You must restart the web app before Smart Detection is enabled.
 
 <details>
     <summary>answer</summary>
