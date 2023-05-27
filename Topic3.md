@@ -294,6 +294,7 @@ You use Azure DevOps to build a web app named App1 and deploy App1 to VMSS1. App
 You need to recommend a solution for implementing a health check of App1. The solution must meet the following requirements:
 
 ✑ Identify whether individual instances of VMSS1 are eligible for an upgrade operation.
+
 ✑ Minimize administrative effort.
 
 What should you include in the recommendation?
