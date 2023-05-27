@@ -307,7 +307,7 @@ What should you include in the recommendation?
 <details>
     <summary>answer</summary>
     D<br/>
-    <a href="https://learn.microsoft.com/en-us/azure/azure-monitor/app/sampling?tabs=net-core-new">https://learn.microsoft.com/en-us/azure/azure-monitor/app/sampling?tabs=net-core-new</a>
+    <a href="https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-health-extension?tabs=rest-api#when-to-use-the-application-health-extension">When to use the Application Health extension</a>
 </details>
 
 ---
