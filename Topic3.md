@@ -165,7 +165,9 @@ You have a multi-tier application that has an Azure Web Apps front end and an Az
 You need to recommend a solution to capture and store telemetry data. The solution must meet the following requirements:
 
 ✑ Support using ad-hoc queries to identify baselines.
+
 ✑ Trigger alerts when metrics in the baseline are exceeded.
+
 ✑ Store application and database metrics in a central location.
 
 What should you include in the recommendation?
