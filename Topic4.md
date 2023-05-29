@@ -122,27 +122,6 @@ What should you recommend?
 
 ---
 
-## Question 6
-
-You have an application that consists of several Azure App Service web apps and Azure functions.
-
-You need to assess the security of the web apps and the functions.
-
-Which Azure feature can you use to provide a recommendation for the security of the application?
-
--   [ ] A. Security & Compliance in Azure Log Analytics
--   [ ] B. Resource health in Azure Service Health
--   [ ] C. Smart Detection in Azure Application Insights
--   [ ] D. Compute & apps in Azure Security Center
-
-<details>
-    <summary>answer</summary>
-    D. Compute & apps in Azure Security Center<br/>
-    <a href = "https://learn.microsoft.com/en-us/azure/devops/repos/git/auth-overview?view=azure-devops">Authentication overview</a>
-</details>
-
----
-
 ## Question 7
 
 Your company has a project in Azure DevOps for a new web application.
