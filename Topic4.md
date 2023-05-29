@@ -104,6 +104,7 @@ You have an Azure DevOps organization named Contoso.
 You need to recommend an authentication mechanism that meets the following requirements:
 
 ✑ Supports authentication from Git
+
 ✑ Minimizes the need to provide credentials during authentication
 
 What should you recommend?
