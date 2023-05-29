@@ -503,28 +503,6 @@ What should you configure?
 
 ---
 
-## Question 25
-
-You have a containerized solution that runs in Azure Container Instances. The solution contains a frontend container named App1 and a backend container named DB1. DB1 loads a large amount of data during startup.
-
-You need to verify that DB1 can handle incoming requests before users can submit requests to App1.
-
-What should you configure?
-
--   [ ] A. a liveness probe
--   [ ] B. a performance log
--   [ ] C. a readiness probe
--   [ ] D. an Azure Load Balancer health probe
-
-<details>
-    <summary>answer</summary>
-    C<br/>
-    <a href="https://learn.microsoft.com/en-us/azure/container-instances/container-instances-readiness-probe">Configure readiness probes</a><br/>
-    <a href="https://learn.microsoft.com/en-us/azure/container-instances/container-instances-liveness-probe">Configure liveness  probes</a>
-</details>
-
----
-
 ## Question 26
 
 You use Azure Pipelines to automate Continuous Integration/Continuous Deployment (CI/CD) for an Azure web app named WebApp1.
