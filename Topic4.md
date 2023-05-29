@@ -204,7 +204,9 @@ What should you include in the recommendation?
 You need to configure access to Azure DevOps agent pools to meet the following requirements:
 
 ✑ Use a project agent pool when authoring build or release pipelines.
+
 ✑ View the agent pool and agents of the organization.
+
 ✑ Use the principle of least privilege.
 
 Which role memberships are required for the Azure DevOps organization and the project?
@@ -226,7 +228,7 @@ Which role memberships are required for the Azure DevOps organization and the pr
 <details>
     <summary>answer</summary>
     Organization : B. Reader<br/>
-    Project : C. Service Account<br/>
+    Project : D. User<br/>
     <a href = "https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/pools-queues?view=azure-devops&tabs=yaml%2Cbrowser#organization-level-security-settings">Organization-level security settings</a><br/>
 </details>
 
