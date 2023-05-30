@@ -748,12 +748,12 @@ Which service should you use?
 
 -   [ ] A. Ansible
 -   [ ] B. Maven
--   [ ] C. WhiteSource Bolt
+-   [ ] C. Mend Bolt
 -   [ ] D. Helm
 
 <details>
     <summary>answer</summary>
-    C. WhiteSource Bolt
+    C. Mend Bolt
 </details>
 
 ---
