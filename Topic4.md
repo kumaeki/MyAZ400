@@ -277,28 +277,6 @@ What should you use?
 
 ---
 
-## Question 13
-
-Your company has an Azure subscription named Subscription1. Subscription1 is associated to an Azure Active Directory tenant named
-contoso.com.
-You need to provision an Azure Kubernetes Services (AKS) cluster in Subscription1 and set the permissions for the cluster by using RBAC roles
-that reference the identities in contoso.com.
-Which three objects should you create in sequence?
-
--   [ ] A. Azure Key Vault
--   [ ] B. a Web.config file
--   [ ] C. an Appsettings.json file
--   [ ] D. an Azure Storage table
--   [ ] E. an Azure Resource Manager parameter file
-
-<details>
-    <summary>answer</summary>
-     A. Azure Key Vault<br/>
-    <a href = "https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/key-vault-parameter?tabs=azure-cli">Use Azure Key Vault to pass secure parameter value during deployment</a><br/>
-</details>
-
----
-
 ## Question 16
 
 Your company has an Azure subscription named Subscription1. Subscription1 is associated to an Azure Active Directory tenant named contoso.com.
