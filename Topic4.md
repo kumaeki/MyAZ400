@@ -503,7 +503,9 @@ You have a private project in Azure DevOps and two users named User1 and User2.
 You need to add User1 and User2 to groups to meet the following requirements:
 
 ✑ User1 must be able to create a code wiki.
+
 ✑ User2 must be able to edit wiki pages.
+
 ✑ The solution must use the principle of least privilege.
 
 To which group should you add each user?
@@ -564,6 +566,7 @@ You plan to update the Azure DevOps strategy of your company.
 You need to identify the following issues as they occur during the company's development process:
 
 ✑ Licensing violations
+
 ✑ Prohibited libraries
 
 Solution: You implement continuous integration.
@@ -588,6 +591,7 @@ You plan to update the Azure DevOps strategy of your company.
 You need to identify the following issues as they occur during the company's development process:
 
 ✑ Licensing violations
+
 ✑ Prohibited libraries
 
 Solution: You implement pre-deployment gates.
@@ -611,6 +615,7 @@ You plan to update the Azure DevOps strategy of your company.
 You need to identify the following issues as they occur during the company's development process:
 
 ✑ Licensing violations
+
 ✑ Prohibited libraries
 
 Solution: You implement automated security testing.
@@ -634,6 +639,7 @@ You plan to update the Azure DevOps strategy of your company.
 You need to identify the following issues as they occur during the company's development process:
 
 ✑ Licensing violations
+
 ✑ Prohibited libraries
 
 Solution: You implement continuous deployment.
