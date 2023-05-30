@@ -767,7 +767,9 @@ You need to ensure that developers can unlist and deprecate packages. The soluti
 Which access level should you grant to the developers?
 
 A. Collaborator
+
 B. Contributor
+
 C. Owner
 
 <details>
