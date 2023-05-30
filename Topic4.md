@@ -926,14 +926,14 @@ You need to identify which certificate file you require to distribute the new re
 
 Which file type should you upload to App Center?
 
--   [ ] A. .cer
--   [ ] B. .pfx
--   [ ] C. .p12
--   [ ] D. .pvk
+-   [ ] A .cer
+-   [ ] B .pfx
+-   [ ] C .p12
+-   [ ] D .pvk
 
 <details>
     <summary>answer</summary>
-    C. .p12</br>
+    C .p12</br>
     <a href="https://learn.microsoft.com/en-us/appcenter/build/xamarin/ios/">Building Xamarin apps for iOS</a>
 </details>
 
