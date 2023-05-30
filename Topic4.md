@@ -959,7 +959,6 @@ Which three actions should you perform in sequence?
     A. Create a service principal in Azure Active Directory</br>
     B. In Project1, create a service connection<br/>
     E. In Project1, configure permissions<br/>
-    <a href="https://learn.microsoft.com/en-us/azure/devops/pipelines/library/connect-to-azure?view=azure-devops#create-an-azure-resource-manager-service-connection-with-an-existing-service-principal">Create an Azure Resource Manager service connection with an existing service principal</a>
 </details>
 
 ---
