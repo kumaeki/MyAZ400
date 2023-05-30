@@ -883,7 +883,7 @@ What should you do?
 
 **Service to use**
 
--   [ ] A. WhiteSource Bolt
+-   [ ] A. Mend Bolt
 -   [ ] B. Bamboo
 -   [ ] C. CMake
 -   [ ] D. Chef
@@ -891,7 +891,7 @@ What should you do?
 <details>
     <summary>answer</summary>
     Object to create : A. A build task</br>
-    Service to use : A. WhiteSource Bolt</br>
+    Service to use : A. Mend Bolt</br>
 </details>
 
 ---
