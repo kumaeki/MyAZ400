@@ -307,6 +307,7 @@ You manage build and release pipelines by using Azure DevOps. Your entire manage
 You need to configure a service endpoint for accessing Azure Key Vault secrets. The solution must meet the following requirements:
 
 ✑ Ensure that the secrets are retrieved by Azure DevOps.
+
 ✑ Avoid persisting credentials and tokens in Azure DevOps.
 
 How should you configure the service endpoint?
