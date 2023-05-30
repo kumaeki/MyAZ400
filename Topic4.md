@@ -474,33 +474,6 @@ What should you do?
 
 ---
 
-## Question 24
-
-You use GitHub Enterprise Server as a source code repository.
-
-You create an Azure DevOps organization named Contoso.
-
-In the Contoso organization, you create a project named Project1.
-
-You need to link GitHub commits, pull requests, and issues to the work items of Project1. The solution must use OAuth-based authentication.
-
-Which three actions should you perform in sequence?
-
--   [ ] A. From Developer settings in GitHub Enterprise Server, register a new OAuth app
--   [ ] B. From Project Setting in Azure DevOps, create a service hook subscription
--   [ ] C. From Organization setting in Azure DevOps, connect to Azure Active Directory(AD)
--   [ ] D. From Project Setting in Azure DevOps, add a GitHub connection
--   [ ] E. From Organization Setting in Azure DevOps, add an OAuth configuration
--   [ ] F. From Developer setting in GitHub enterprise Server, generate a private key
-
-<details>
-    <summary>answer</summary>
-    A. E. D.<br/>
-    <a href = "https://learn.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops">Connect Azure Boards to GitHub (Cloud)</a><br/>
-</details>
-
----
-
 ## Question 25
 
 You are configuring an Azure DevOps deployment pipeline. The deployed application will authenticate to a web service by using a secret stored in an Azure key vault.
