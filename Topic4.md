@@ -738,34 +738,6 @@ What should you do in the release pipeline of Project1?
 
 ---
 
-## Question 36
-
-You have an Azure Kubernetes Service (AKS) implementation that is RBAC-enabled.
-
-You plan to use Azure Container Instances as a hosted development environment to run containers in the AKS implementation.
-
-You need to configure Azure Container Instances as a hosted environment for running the containers in AKS.
-
-Which three actions should you perform in sequence?
-
-A. Run `helm init.`
-
-B. Run `az aks install-connector`
-
-C. Create a YAML file
-
-D. Run `az role assignment create`
-
-E. Run `kubectl apply`
-
-<details>
-    <summary>answer</summary>
-    C, E, A<br/>
-    <a href="https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-deploy-cli">Quickstart: Deploy an Azure Kubernetes Service (AKS) cluster using Azure CLI</a>
-</details>
-
----
-
 ## Question 37
 
 You have an Azure DevOps project that contains a build pipeline. The build pipeline uses approximately 50 open source libraries.
@@ -781,12 +753,12 @@ Which service should you use?
 
 <details>
     <summary>answer</summary>
-    C
+    C. WhiteSource Bolt
 </details>
 
 ---
 
-## Question 37
+## Question 39
 
 You administer an Azure DevOps project that includes package feeds.
 
@@ -800,7 +772,7 @@ C. Owner
 
 <details>
     <summary>answer</summary>
-    B
+    B. Contributor
 </details>
 
 ---
