@@ -677,8 +677,8 @@ How should you complete the policy?
 ```
 
 -   [ ] A. "MicrosoftResource/deployments"
--   [ ] A. "MicrosoftResource/subscriptions"
--   [ ] A. "MicrosoftResource/subscriptions/resourceGroups"
+-   [ ] B. "MicrosoftResource/subscriptions"
+-   [ ] C. "MicrosoftResource/subscriptions/resourceGroups"
 
 ```
                 },
@@ -695,8 +695,8 @@ How should you complete the policy?
 ```
 
 -   [ ] A. "Append",
--   [ ] A. "Deny",
--   [ ] A. "DeployIfNotExists",
+-   [ ] B. "Deny",
+-   [ ] C. "DeployIfNotExists",
 
 ```
         "details":[
@@ -712,7 +712,8 @@ How should you complete the policy?
 
 <details>
     <summary>answer</summary>
-    A, A<br/>
+    C. "MicrosoftResource/subscriptions/resourceGroups"<br/>
+    B. "Deny"<br/>
 </details>
 
 ---
