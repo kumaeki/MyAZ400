@@ -749,9 +749,13 @@ You need to configure Azure Container Instances as a hosted environment for runn
 Which three actions should you perform in sequence?
 
 A. Run `helm init.`
+
 B. Run `az aks install-connector`
+
 C. Create a YAML file
+
 D. Run `az role assignment create`
+
 E. Run `kubectl apply`
 
 <details>
