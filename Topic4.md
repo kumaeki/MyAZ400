@@ -392,29 +392,6 @@ What should you use?
 
 ---
 
-## Question 20
-
-You have an Azure DevOps organization named Contoso that contains a project named Project1.
-
-You provision an Azure key vault named Keyvault1.
-
-You need to reference Keyvault1 secrets in a build pipeline of Project1.
-
-What should you do first?
-
--   [ ] A. Add a secure file to Project1.
--   [ ] B. Create an XAML build service.
--   [ ] C. Create a variable group in Project1.
--   [ ] D. Configure the security policy of Contoso.
-
-<details>
-    <summary>answer</summary>
-     D. Configure the security policy of Contoso.<br/>
-    <a href = "https://learn.microsoft.com/en-us/azure/devops/pipelines/release/azure-key-vault?view=azure-devops&tabs=yaml">Use Azure Key Vault secrets in Azure Pipelines</a><br/>
-</details>
-
----
-
 ## Question 21
 
 Your company uses Azure DevOps.
