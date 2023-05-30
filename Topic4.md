@@ -1297,7 +1297,8 @@ What should you do first?
 
 <details>
     <summary>answer</summary>
-    D<br/>
+    A. Purchase a GitHub Advanced Security license<br/>
+    <a href="https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security#about-advanced-security-features">About Advanced Security features</a>
 
 </details>
 
