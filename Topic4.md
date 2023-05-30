@@ -1008,11 +1008,11 @@ What should you use?
 -   [ ] A. OWASP ZAP
 -   [ ] B. Jenkins
 -   [ ] C. Code Style
--   [ ] D. WhiteSource Bolt
+-   [ ] D. Mend Bolt
 
 <details>
     <summary>answer</summary>
-    D. WhiteSource Bolt</br>
+    D. Mend Bolt</br>
 </details>
 
 ---
