@@ -1242,7 +1242,9 @@ A security review indicates that too many users have privileged access to resour
 You need to deploy a privileged access management solution that meets the following requirements:
 
 • Enforces time limits on the use of privileged access
+
 • Requires approval to activate privileged access
+
 • Minimizes costs
 
 What should you do first?
