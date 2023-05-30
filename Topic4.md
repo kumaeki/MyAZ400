@@ -782,11 +782,17 @@ C. Owner
 ## Question 40
 
 You have a project in Azure DevOps that has three teams as shown in the Teams exhibit
+
 ![image](image/topic4-q40-01.png)
+
 You create a new dashboard named Dash1.
+
 You configure the dashboard permissions for the Contoso project as shown in the Permissions exhibit.
+
 ![image](image/topic4-q40-02.png)
+
 All other permissions have the default values set.
+
 **Web Team can delete Dash1**
 
 -   [ ] Yes
