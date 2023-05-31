@@ -575,12 +575,12 @@ You need to ensure that you can authenticate to repo1 by using SSH.
 
 Which four actions should you perform in sequence?
 
-A. Sign in to Azure DevOps.
-B. Add the SSH public key.
-C. Clone repo1.
-D. Save the SSH key to the root of repo1.
-E. Add the SSH private key
-F. Create SSH keys by using ssh-keygen
+-   [ ] A. Sign in to Azure DevOps.
+-   [ ] B. Add the SSH public key.
+-   [ ] C. Clone repo1.
+-   [ ] D. Save the SSH key to the root of repo1.
+-   [ ] E. Add the SSH private key
+-   [ ] F. Create SSH keys by using ssh-keygen
 
 <details>
     <summary>answer</summary>
