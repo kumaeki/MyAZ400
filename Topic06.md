@@ -118,11 +118,17 @@ Which system should you use?
 ## Question 7
 
 You plan to onboard 10 new developers.
+
 You need to recommend a development environment that meets the following requirements:
+
 ✑ Integrates with GitHub
+
 ✑ Provides integrated debugging tools
+
 ✑ Supports remote workers and hot-desking environments
+
 ✑ Supports developers who use browsers, tablets, and Chromebooks
+
 What should you recommend?
 
 -   [ ] A. VS Code
@@ -268,7 +274,9 @@ Your company uses Azure DevOps for Git source control.
 You have a project in Azure DevOps named Contoso App that contains the following repositories:
 
 ✑ https://dev.azure.com/contoso/contoso-app/core-api
+
 ✑ https://dev.azure.com/contoso/contoso-app/core-spa
+
 ✑ https://dev.azure.com/contoso/contoso-app/core-db
 
 You need to ensure that developers receive Slack notifications when there are pull requests created for Contoso App.
@@ -326,8 +334,11 @@ Your company plans to use an agile approach to software development.
 You need to recommend an application to provide communication between members of the development team who work in locations around the world. The applications must meet the following requirements:
 
 ✑ Provide the ability to isolate the members of different project teams into separate communication channels and to keep a history of the chats within those channels.
+
 ✑ Be available on Windows 10, Mac OS, iOS, and Android operating systems.
+
 ✑ Provide the ability to add external contractors and suppliers to projects.
+
 ✑ Integrate directly with Azure DevOps.
 
 What should you recommend?
@@ -413,8 +424,11 @@ Your company plans to use an agile approach to software development.
 You need to recommend an application to provide communication between members of the development team who work in locations around the world. The applications must meet the following requirements:
 
 ✑ Provide the ability to isolate the members of different project teams into separate communication channels and to keep a history of the chats within those channels.
+
 ✑ Be available on Windows 10, Mac OS, iOS, and Android operating systems.
+
 ✑ Provide the ability to add external contractors and suppliers to projects.
+
 ✑ Integrate directly with Azure DevOps.
 
 What should you recommend?
@@ -435,9 +449,7 @@ What should you recommend?
 
 You are designing a YAML template for use with Azure Pipelines. The template will include the outputfile parameter.
 
-Which two methods can you use to reference the parameter? Each correct answer presents a complete solution.
-
-NOTE: Each correct selection is worth one point.
+Which two methods can you use to reference the parameter? 
 
 -   [ ] A. ${{parameters.outputfile}}
 -   [ ] B. $(parameters['outputfile'])
@@ -526,11 +538,11 @@ You need to integrate Exabeam and Azure. The solution must use OAuth authenticat
 
 Which three actions should you perform in sequence?
 
-A. Upload a certificate
-B. Create a client secret
-C. Register an Exabeam application in Microsoft Azure Active Directory(AAD), part of Microsoft Entra
-D. Configure the Exabeam Azure cloud connector
-E. Configure API permissions
+-  [ ] A. Upload a certificate
+-  [ ] B. Create a client secret
+-  [ ] C. Register an Exabeam application in Microsoft Azure Active Directory(AAD), part of Microsoft Entra
+-  [ ] D. Configure the Exabeam Azure cloud connector
+-  [ ] E. Configure API permissions
 
 <details>
     <summary>answer</summary>
@@ -552,11 +564,11 @@ You need to automatically link the request to an existing Azure Boards work item
 
 To which two elements can you add the text?
 
-A. milestone
-B. label
-C. title
-D. comment
-E. description
+-  [ ] A. milestone
+-  [ ] B. label
+-  [ ] C. title
+-  [ ] D. comment
+-  [ ] E. description
 
 <details>
     <summary>answer</summary>
