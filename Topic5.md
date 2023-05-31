@@ -148,9 +148,13 @@ You need to configure SonarQube to perform a code quality validation of the C# c
 Which four tasks should you perform in sequence?
 
 A. Run Code Analysis
+
 B. Visual Studio Test
+
 C. Publish Build Artifacts
+
 D. Visual Studio Build
+
 E. Prepare Analysis Configuration
 
 <details>
