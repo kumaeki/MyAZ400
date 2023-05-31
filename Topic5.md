@@ -528,6 +528,7 @@ You use Git for source control.
 You need to optimize the performance of a repository. The solution must meet the following requirements:
 
 • Permanently remove all items referenced only in the reflog.
+
 • Remove history that is NOT in any current branch.
 
 How should you complete the command?
