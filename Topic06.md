@@ -521,9 +521,9 @@ You need to configure AzLog to export the logs and push them to the storage acco
 In which format should you export the logs?
 
 -  [ ] A. JSON
--  [ ]B. EVTX
--  [ ]C. EVT
--  [ ]D. binary
+-  [ ] B. EVTX
+-  [ ] C. EVT
+-  [ ] D. binary
 
 <details>
     <summary>answer</summary>
