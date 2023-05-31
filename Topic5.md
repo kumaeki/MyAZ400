@@ -266,12 +266,12 @@ You need to make a custom package available to all the developers. The package m
 
 Which three actions should you perform?
 
-A. Publish the package to a feed.
-B. Create a new feed in Azure Artifacts.
-C. Upload a package to a Git repository.
-D. Add the package URL to the Environment settings in Visual Studio.
-E. Add the package URL to the NuGet Package Manager settings in Visual Studio.
-F. Create a Git repository in Azure Repos.
+-   [ ] A. Publish the package to a feed.
+-   [ ] B. Create a new feed in Azure Artifacts.
+-   [ ] C. Upload a package to a Git repository.
+-   [ ] D. Add the package URL to the Environment settings in Visual Studio.
+-   [ ] E. Add the package URL to the NuGet Package Manager settings in Visual Studio.
+-   [ ] F. Create a Git repository in Azure Repos.
 
 <details>
     <summary>answer</summary>
@@ -292,10 +292,10 @@ You need to delete the file and its history form the repository.
 
 Which two tools can you use?
 
-A. the git filter-repo command
-B. BFG Repo-Cleaner
-C. the git rebase command
-D. GitHub Desktop
+-   [ ] A. the git filter-repo command
+-   [ ] B. BFG Repo-Cleaner
+-   [ ] C. the git rebase command
+-   [ ] D. GitHub Desktop
 
 <details>
     <summary>answer</summary>
@@ -313,7 +313,9 @@ Your company uses GitHub for source control. The company has a team that perform
 You need to automate the assignment of the code reviews. The solution must meet the following requirements:
 
 ✑ Prioritize the assignment of code reviews to team members who have the fewest outstanding assignments.
+
 ✑ Ensure that each team member performs an equal number of code reviews in any 30-day period.
+
 ✑ Prevent the assignment of code reviews to the team leader.
 
 Which two actions should you perform?
@@ -343,11 +345,11 @@ You need to recommend a procedure to clone the repository from GitHub to Azure D
 
 What should you recommend?
 
-A. Create a pull request.
-B. Create a webhook.
-C. Create a service connection for GitHub.
-D. From Import a Git repository, click Import.
-E. Create a personal access token in Azure DevOps.
+-   [ ] A. Create a pull request.
+-   [ ] B. Create a webhook.
+-   [ ] C. Create a service connection for GitHub.
+-   [ ] D. From Import a Git repository, click Import.
+-   [ ] E. Create a personal access token in Azure DevOps.
 
 <details>
     <summary>answer</summary>
@@ -599,12 +601,12 @@ You need to recover the deleted file.
 
 Which three commands should you run in sequence?
 
-A. `git commit -m 'undeleted the file'`
-B. `git log`
-C. `git checkout [hash]~1 --path/to/file`
-D. `git tag`
-E. `git restore path/to/file`
-F. `git stash`
+-   [ ] A. `git commit -m 'undeleted the file'`
+-   [ ] B. `git log`
+-   [ ] C. `git checkout [hash]~1 --path/to/file`
+-   [ ] D. `git tag`
+-   [ ] E. `git restore path/to/file`
+-   [ ] F. `git stash`
 
 <details>
     <summary>answer</summary>
