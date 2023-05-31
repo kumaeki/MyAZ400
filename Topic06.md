@@ -289,20 +289,22 @@ What should you run in Slack?
 
 **AAAA**
 
--   [ ] feedback
--   [ ] signin
--   [ ] subscribe
--   [ ] subscriptions
+-   [ ] A. feedback
+-   [ ] B. signin
+-   [ ] C. subscribe
+-   [ ] D. subscriptions
 
 **BBBB**
 
--   [ ] https://dev.azure.com/contoso/contoso-app
--   [ ] https://dev.azure.com/contoso/contoso-app/core-api
--   [ ] https://dev.azure.com/contoso/contoso-app/core-spa
--   [ ] https://dev.azure.com/contoso/contoso-app/core-db
+-   [ ] A. https://dev.azure.com/contoso/contoso-app
+-   [ ] B. https://dev.azure.com/contoso/contoso-app/core-api
+-   [ ] C. https://dev.azure.com/contoso/contoso-app/core-spa
+-   [ ] D. https://dev.azure.com/contoso/contoso-app/core-db
 
 <details>
     <summary>answer</summary>
+    C. subscribe<br/>
+    A. https://dev.azure.com/contoso/contoso-app<br/>
     /azrepos subscribe https://dev.azure.com/contoso/contoso-app
 </details>
 
