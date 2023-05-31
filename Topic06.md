@@ -48,8 +48,11 @@ Your team uses an agile development approach.
 You need to recommend a branching strategy for the team's Git repository. The strategy must meet the following requirements.
 
 ✑ Provide the ability to work on multiple independent tasks in parallel.
+
 ✑ Ensure that checked-in code remains in a releasable state always.
+
 ✑ Ensure that new features can be abandoned at any time.
+
 ✑ Encourage experimentation.
 
 What should you recommend?
