@@ -328,7 +328,7 @@ Which two actions should you perform?
 
 <details>
     <summary>answer</summary>
-    A. Clear Never assign certain team members.<br/>
+    C. Select Never assign certain team members.<br/>
     E. Set Routing algorithm to Load balance.<br/>
     <a href = "https://docs.github.com/en/organizations/organizing-members-into-teams/managing-code-review-settings-for-your-team">Managing code review settings for your team</a>
 </details>
