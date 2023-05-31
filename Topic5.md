@@ -681,7 +681,6 @@ Which branch type should you identify for each code type?
     <summary>answer</summary>
     Production code : A. Main<br/>
     PreProduction code : B. Feature<br/>
-    <a href="https://git-scm.com/docs/git-restore">git-restore</a>
 
 </details>
 
