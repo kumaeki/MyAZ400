@@ -218,9 +218,13 @@ You need to share the package and test that the package can be consumed.
 Which four actions should you perform in sequence?
 
 A. create a new Azure Artifacts feed
+
 B. Configure a self-hosted agent
+
 C. publish a package
+
 D. install a package
+
 E. Connect to an Azure Artifacts feed
 
 <details>
