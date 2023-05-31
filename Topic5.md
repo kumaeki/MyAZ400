@@ -231,8 +231,8 @@ E. Connect to an Azure Artifacts feed
     <summary>answer</summary>
     B. Configure a self-hosted agent<br/>
     A. create a new Azure Artifacts feed<br/>
-    C. publish a package<br/>
     E. Connect to an Azure Artifacts feed<br/>
+    C. publish a package<br/>
 </details>
 
 ---
