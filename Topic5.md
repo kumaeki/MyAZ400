@@ -90,7 +90,9 @@ documentation is saved as Microsoft Word documents that contain simple flow char
 You need to optimize the integration and versioning of the process documentation and the flow charts. The solution must meet the following requirements:
 
 ✑ Store documents as plain text.
+
 ✑ Minimize the number of files that must be maintained.
+
 ✑ Simplify the modification, merging, and reuse of fiow charts.
 
 Simplify the modification, merging, and reuse of documents.
