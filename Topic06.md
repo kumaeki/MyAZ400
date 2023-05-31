@@ -365,8 +365,8 @@ You need to change the order of pages in the navigation pane of the published wi
 
 What should you do?
 
--   [ ] A. At the root of the wiki, create a file named .order that de􀂦nes the page hierarchy.
--   [ ] B. At the root of the wiki, create a file named wiki.md that de􀂦nes the page hierarchy.
+-   [ ] A. At the root of the wiki, create a file named .order that defines the page hierarchy.
+-   [ ] B. At the root of the wiki, create a file named wiki.md that defines the page hierarchy.
 -   [ ] C. Rename the pages in the navigation pane.
 -   [ ] D. Drag and drop the pages in the navigation pane.
 
