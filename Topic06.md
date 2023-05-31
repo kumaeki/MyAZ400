@@ -96,7 +96,9 @@ You have a project in Azure DevOps that has a release pipeline.
 You need to integrate work item tracking and an Agile project management system to meet the following requirements:
 
 ✑ Ensure that developers can track whether their commits are deployed to production.
+
 ✑ Report the deployment status.
+
 ✑ Minimize integration effort.
 
 Which system should you use?
