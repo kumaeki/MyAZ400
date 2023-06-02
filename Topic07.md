@@ -425,6 +425,7 @@ Does this meet the goal?
 You need to recommend a Docker container build strategy that meets the following requirements:
 
 ✑ Minimizes image sizes
+
 ✑ Minimizes the security surface area of the final image
 
 What should you include in the recommendation?
