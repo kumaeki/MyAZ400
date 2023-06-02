@@ -443,39 +443,6 @@ What should you include in the recommendation?
 
 ---
 
-## Question 33
-
-You plan to create an image that will contain a .NET Core application.
-
-You have a Dockerfile file that contains the following code. (Line numbers are included for reference only.)
-
-```dockerfile
-FROM microsoft/dotnet:3.1-sdk
-COPY ./
-RUN dotnet public -c Release -o out
-FROM microsoft/dotnet: 3.1-sdk
-COPY --from=0 /out /
-WORKDIR /
-ENTRYPOINT ["dotnet","app1.dll"]
-```
-
-You need to ensure that the image is as small as possible when the image is built.
-
-Which line should you modify in the file?
-
--   [ ] A. 1
--   [ ] B. 3
--   [ ] C. 4
--   [ ] D. 7
-
-<details>
-    <summary>answer</summary>
-    C. 4<br/>
-    <a href="https://docs.docker.com/build/building/multi-stage/">Multi-stage builds</a>
-</details>
-
----
-
 ## Question 34
 
 Your company has a project in Azure DevOps for a new web application.
