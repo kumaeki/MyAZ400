@@ -576,6 +576,14 @@ Which three values should you configure for Task1?
     A. the tenant ID<br/>
     B. the subscription ID<br/>
     C. the client secret<br/>
+    
+    Subscription ID<br/>
+    Subscription name<br/>
+    Service principal ID<br/>
+    Either the service principal client key or, if you have selected Certificate, enter the contents of both the certificate and private key sections of the *.pem file.<br/>
+    Tenant ID<br/>
+    
+    <a href = "[https://learn.microsoft.com/en-us/azure/devops/pipelines/library/connect-to-azure?view=azure-devops#create-an-azure-resource-manager-service-connection-with-an-existing-service-principal](https://learn.microsoft.com/en-us/azure/devops/pipelines/library/connect-to-azure?view=azure-devops#create-an-azure-resource-manager-service-connection-with-an-existing-service-principal)">Create an Azure Resource Manager service connection with an existing service principal </a>
 </details>
 
 ---
