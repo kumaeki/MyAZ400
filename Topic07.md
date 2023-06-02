@@ -142,59 +142,6 @@ Which merge strategy should you use in the branch policy?
 
 ---
 
-## Question 13
-
-Your company has four projects. The version control requirements for each project are shown in the following table
-
-| name     | details                                                                                                                                                                                                                                               |
-| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Project1 | Project leads must be able to restrict access to individuals files and folders in the repository                                                                                                                                                      |
-| Project2 | The version control system must enforce the following rules on the server before merging any changes to the main branch: <br/>1. Changes must be reviewed by at least two project members<br/>2. Changes must be associated by at least one work item |
-| Project3 | The project members must be able to work in Azure Repos directly from Xcode                                                                                                                                                                           |
-| Project4 | The release branch must only be viewable or editable by the project leads                                                                                                                                                                             |
-
-You plan to use Azure Repos for all the projects.
-
-Which version control system should you use for each project?
-
-**Project1**
-
--   [ ] A. Git
--   [ ] B. Perforce
--   [ ] C. Subversion
--   [ ] D. Team Foundation Version Control
-
-**Project2**
-
--   [ ] A. Git
--   [ ] B. Perforce
--   [ ] C. Subversion
--   [ ] D. Team Foundation Version Control
-
-**Project3**
-
--   [ ] A. Git
--   [ ] B. Perforce
--   [ ] C. Subversion
--   [ ] D. Team Foundation Version Control
-
-**Project4**
-
--   [ ] A. Git
--   [ ] B. Perforce
--   [ ] C. Subversion
--   [ ] D. Team Foundation Version Control
-
-<details>
-    <summary>answer</summary>
-    Project1 : D. Team Foundation Version Control<br/>
-    Project2 : A. Git<br/>
-    Project3 : C. Subversion<br/>
-    Project4 : A. Git<br/>
-</details>
-
----
-
 ## Question 14
 
 You are automating the build process for a Java-based application by using Azure DevOps.
