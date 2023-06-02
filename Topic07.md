@@ -150,10 +150,10 @@ You need to add code coverage testing and publish the outcomes to the pipeline.
 
 What should you use?
 
-A. Bullseye Coverage
-B. JUnit
-C. JaCoCo
-D. MSTest
+-  [ ] A. Bullseye Coverage
+-  [ ] B. JUnit
+-  [ ] C. JaCoCo
+-  [ ] D. MSTest
 
 <details>
     <summary>answer</summary>
@@ -171,10 +171,10 @@ You need to add code coverage testing and publish the outcomes to the pipeline.
 
 What should you use?
 
-A. Cobertura
-B. Bullseye Coverage
-C. MSTest
-D. Coverlet
+-  [ ] A. Cobertura
+-  [ ] B. Bullseye Coverage
+-  [ ] C. MSTest
+-  [ ] D. Coverlet
 
 <details>
     <summary>answer</summary>
@@ -192,9 +192,9 @@ You need to use incremental builds without purging the environment between pipel
 
 What should you use?
 
-A. a self-hosted agent
-B. Microsoft-hosted parallel jobs
-C. a File Transform task
+-  [ ] A. a self-hosted agent
+-  [ ] B. Microsoft-hosted parallel jobs
+-  [ ] C. a File Transform task
 
 <details>
     <summary>answer</summary>
