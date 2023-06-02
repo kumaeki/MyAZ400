@@ -449,7 +449,7 @@ You plan to create an image that will contain a .NET Core application.
 
 You have a Dockerfile file that contains the following code. (Line numbers are included for reference only.)
 
-```docker
+```dockerfile
 FROM microsoft/dotnet:3.1-sdk
 COPY ./
 RUN dotnet public -c Release -o out
