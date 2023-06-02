@@ -312,11 +312,11 @@ You install PowerShell Desired State Configuration (DSC) on the virtual machines
 
 Which three actions should you perform next in sequence?
 
-A. Create a DSC meta configuration
-B. Copy the meta configuration to the virtual machines
-C. Add the virtual machines as DSC nodes in Azure Automation
-D. Install Windows Management Framework 5.1 on the virtual machines
-E. From the virtual machines, run setdsclocalconfigurationmanager.py
+- [ ] A. Create a DSC meta configuration
+- [ ] B. Copy the meta configuration to the virtual machines
+- [ ] C. Add the virtual machines as DSC nodes in Azure Automation
+- [ ] D. Install Windows Management Framework 5.1 on the virtual machines
+- [ ] E. From the virtual machines, run setdsclocalconfigurationmanager.py
 
 <details>
     <summary>answer</summary>
