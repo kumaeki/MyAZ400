@@ -357,7 +357,9 @@ You use a Git repository in Azure Repos to manage the source code of a web appli
 You need to implement a change management procedure that meets the following requirements:
 
 ✑ The default branch must be protected, and new changes must be built in the feature branches first.
+
 ✑ Changes must be reviewed and approved by at least one release manager before each merge.
+
 ✑ Changes must be brought into the default branch by using pull requests.
 
 What should you configure in Azure Repos?
