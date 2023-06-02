@@ -468,6 +468,7 @@ Does this meet the goal?
 You need to deploy Azure Kubernetes Service (AKS) to host an application. The solution must meet the following requirements:
 
 ✑ Containers must only be published internally.
+
 ✑ AKS clusters must be able to create and manage containers in Azure.
 
 What should you use for each requirement?
