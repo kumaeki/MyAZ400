@@ -300,33 +300,6 @@ What should you enable in DevOps?
 
 ---
 
-## Question 23
-
-Your company has two virtual machines that run Linux in a third-party public cloud.
-
-You plan to use the company's Azure Automation State Configuration implementation to manage the two virtual machines and detect Configuration drift.
-
-You need to onboard the Linux virtual machines.
-
-You install PowerShell Desired State Configuration (DSC) on the virtual machines, and then run register.py.
-
-Which three actions should you perform next in sequence?
-
-- [ ] A. Create a DSC meta configuration
-- [ ] B. Copy the meta configuration to the virtual machines
-- [ ] C. Add the virtual machines as DSC nodes in Azure Automation
-- [ ] D. Install Windows Management Framework 5.1 on the virtual machines
-- [ ] E. From the virtual machines, run setdsclocalconfigurationmanager.py
-
-<details>
-    <summary>answer</summary>
-    A. Create a DSC meta configuration<br/>
-    B. Copy the meta configuration to the virtual machines<br/>
-    C. Add the virtual machines as DSC nodes in Azure Automation<br/>
-</details>
-
----
-
 ## Question 25
 
 You are creating a container for an ASP.NET Core app.
