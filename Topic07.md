@@ -745,7 +745,7 @@ Which branch type should you identify for each code type?
 <details>
     <summary>answer</summary>
     Production code : A. Master<br/>
-    Preproduction code : A. Master<br/>
+    Preproduction code : B. Feature<br/>
 </details>
 
 ---
