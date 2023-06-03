@@ -1431,6 +1431,7 @@ What should you do?
 You are creating a YAML-based Azure pipeline to deploy an Azure Data Factory instance that has the following requirements:
 
 ✑ If a Data Factory instance exists already, the instance must be overwritten.
+
 ✑ No other resources in a resource group named Fabrikam must be affected.
 
 How should you complete the code?
@@ -1463,7 +1464,7 @@ steps:
 
 <details>
     <summary>answer</summary>
-    AAAA : A. 'Create Or Update Resource Group'.
+    AAAA : A. 'Create Or Update Resource Group'.<br/>
     BBBB : B. 'Incremental'
 </details>
 
