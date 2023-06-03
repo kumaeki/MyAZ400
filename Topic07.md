@@ -1364,7 +1364,7 @@ You need to perform the following:
 
 How should you configure the DSC Configuration file?
 
-```
+```PowerShell
 Configuration WebServerConfig {
     import-DscResource -ModuleName PsDesiredStateConfiguration
     Node 'localhost'{
