@@ -1045,7 +1045,7 @@ What should you do?
 
 <details>
     <summary>answer</summary>
-    C. Create and run an Azure Container Registry task.
+    C. Create and run an Azure Container Registry task.<br/>
     <a href = "https://learn.microsoft.com/en-us/azure/container-registry/container-registry-tutorial-base-image-update">Tutorial: Automate container image builds when a base image is updated in an Azure container registry</a>
 </details>
 
