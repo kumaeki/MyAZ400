@@ -700,13 +700,13 @@ Which five Azure CLI tasks should you add in sequence?
 
 Does this meet the goal?
 
-A. Convert Report Format
-B. Build machine image
-C. Publish Test Results
-D. Destroy OWASP Container
-E. Call the Baseline Scan
-F. Docker CLI installer
-G. Download the file
+-   [ ] A. Convert Report Format
+-   [ ] B. Build machine image
+-   [ ] C. Publish Test Results
+-   [ ] D. Destroy OWASP Container
+-   [ ] E. Call the Baseline Scan
+-   [ ] F. Docker CLI installer
+-   [ ] G. Download the file
 
 <details>
     <summary>answer</summary>
