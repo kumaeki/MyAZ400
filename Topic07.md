@@ -1280,7 +1280,8 @@ You need to recommend a migration strategy that meets the following requirements
 <details>
     <summary>answer</summary>
     On the TFS server : B. Upgrade TFS to the most recent RTW release</br>
-    To perform the migration : C. Use the TFS Database Import Service
+    To perform the migration : C. Use the TFS Database Import Service<br/>
+    <a href="https://learn.microsoft.com/en-us/azure/devops/migrate/migrate-from-tfs?view=azure-devops#option-2-high-fidelity-database-migration">Option 2: High fidelity database migration</a>
 </details>
 
 ---
