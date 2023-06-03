@@ -588,32 +588,6 @@ Which three values should you configure for Task1?
 
 ---
 
-## Question 41
-
-You are deploying a new application that uses Azure virtual machines.
-
-You plan to use the Desired State Configuration (DSC) extension on the virtual machines.
-
-You need to ensure that the virtual machines always have the same Windows feature installed.
-
-Which three actions should you perform in sequence?
-
--   [ ] A. Configure the DSC extension on the virtual machines
--   [ ] B. Create a YAML configuration file
--   [ ] C. Load the file to Azure Blob Storage
--   [ ] D. Configure the Custom Script Extension on the virtual machines
--   [ ] E. Load the file to Azure Files
--   [ ] F. Create a PowerShell configuration file
-
-<details>
-    <summary>answer</summary>
-    F. Create a PowerShell configuration file<br/>
-    E. Load the file to Azure Files<br/>
-    D. Configure the Custom Script Extension on the virtual machines<br/>
-</details>
-
----
-
 ## Question 43
 
 You are designing an Azure DevOps strategy for your company's development team.
