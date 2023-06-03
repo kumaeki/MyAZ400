@@ -1360,6 +1360,7 @@ You plan to use Desired State Configuration (DSC) to maintain the Configuration 
 You need to perform the following:
 
 ✑ Install Internet Information Services (IIS) on the virtual machines.
+
 ✑ Update the default home page of the IIS web server.
 
 How should you configure the DSC Configuration file?
