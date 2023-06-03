@@ -916,7 +916,9 @@ Does this meet the goal?
 You plan to create a release pipeline that will deploy Azure resources by using Azure Resource Manager templates. The release pipeline will create the following resources:
 
 ✑ Two resource groups
+
 ✑ Four Azure virtual machines in one resource group
+
 ✑ Two Azure SQL databases in other resource group
 
 You need to recommend a solution to deploy the resources.
