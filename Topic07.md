@@ -598,12 +598,12 @@ You need to ensure that the virtual machines always have the same Windows featur
 
 Which three actions should you perform in sequence?
 
-A. Configure the DSC extension on the virtual machines
-B. Create a YAML configuration file
-C. Load the file to Azure Blob Storage
-D. Configure the Custom Script Extension on the virtual machines
-E. Load the file to Azure Files
-F. Create a PowerShell configuration file
+-   [ ] A. Configure the DSC extension on the virtual machines
+-   [ ] B. Create a YAML configuration file
+-   [ ] C. Load the file to Azure Blob Storage
+-   [ ] D. Configure the Custom Script Extension on the virtual machines
+-   [ ] E. Load the file to Azure Files
+-   [ ] F. Create a PowerShell configuration file
 
 <details>
     <summary>answer</summary>
