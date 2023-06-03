@@ -1575,10 +1575,19 @@ steps:
 -   [ ] E. ne(variables.CACHE_RESTORED, 'true')
 -   [ ] F. npm install
 
+**BBB**
+
+-   [ ] A. always()
+-   [ ] B. build.sh
+-   [ ] C. eq(variables.CACHE_RESTORED, 'true')
+-   [ ] D. integrationtest.sh
+-   [ ] E. ne(variables.CACHE_RESTORED, 'true')
+-   [ ] F. npm install
+
 <details>
     <summary>answer</summary>
-    F. npm install<br/>
-    E. ne(variables.CACHE_RESTORED, 'true')
+    AAA : F. npm install<br/>
+    BBB : E. ne(variables.CACHE_RESTORED, 'true')
 </details>
 
 ---
