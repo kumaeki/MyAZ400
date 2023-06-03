@@ -1488,7 +1488,8 @@ What should you do?
 
 <details>
     <summary>answer</summary>
-    D. Create two feed views named @prerelease and @release. Set @release as the default view. Configure a release pipeline that promotes a package to the @release view after successful testing.
+    D. Create two feed views named @prerelease and @release. Set @release as the default view. Configure a release pipeline that promotes a package to the @release view after successful testing.<br/>
+    <a href="https://learn.microsoft.com/en-us/azure/devops/artifacts/feeds/views?view=azure-devops"> Use feed views to share packages </a>
 </details>
 
 ---
@@ -1515,7 +1516,8 @@ What should you do?
 
 <details>
     <summary>answer</summary>
-    A. Create a feed view named @release and set @release as the default view. After the npm packages test successfully, Configure a release pipeline that promotes a package to the @release view.
+    A. Create a feed view named @release and set @release as the default view. After the npm packages test successfully, Configure a release pipeline that promotes a package to the @release view.<br/>
+    <a href="https://learn.microsoft.com/en-us/azure/devops/artifacts/feeds/views?view=azure-devops"> Use feed views to share packages </a>
 </details>
 
 ---
