@@ -577,9 +577,9 @@ Which four actions should you perform in sequence?
 <details>
     <summary>answer</summary>
     A. Create an Azure Automation account<br/>
-    B. Install the custom Desired State Configuration (DSC) extension on the virtual machines
-    D. Onboard the virtual machines to the Azure Automation account
-    E. compile the Desired State Configuration(DSC) configuration
+    B. Install the custom Desired State Configuration (DSC) extension on the virtual machines<br/>
+    D. Onboard the virtual machines to the Azure Automation account<br/>
+    E. compile the Desired State Configuration(DSC) configuration<br/>
     <a href="https://learn.microsoft.com/en-us/azure/automation/automation-dsc-getting-started">Get started with Azure Automation State Configuration</a>
 </details>
 
