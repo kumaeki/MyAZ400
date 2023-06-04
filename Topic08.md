@@ -453,29 +453,6 @@ Which strategy should you choose for each scenario?
 
 ---
 
-## Question 26
-
-You have a project in Azure DevOps.
-
-You need to associate an automated test to a test case.
-
-Which three actions should you perform in sequence?
-
-- [ ] A. Debug the project
-- [ ] B. Create a test project
-- [ ] C. Create a work item
-- [ ] D. Check in a project to the Azure DevOps repository
-- [ ] E. Add the automated test to a build pipeline
-
-<details>
-    <summary>answer</summary>
-    B. Create a test project</br>
-    D. Check in a project to the Azure DevOps repository</br>
-    E. Add the automated test to a build pipeline</br>
-</details>
-
----
-
 ## Question 28
 
 You have an approval process that contains a condition. The condition requires that releases be approved by a team leader before they are deployed.
