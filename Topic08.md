@@ -129,7 +129,7 @@ Which type of distribution group should you use for each group?
 
 ## Question 8
 
-You need to create deployment 􀂦les for an Azure Kubernetes Service (AKS) cluster. The deployments must meet the provisioning storage requirements shown in the following table.
+You need to create deployment files for an Azure Kubernetes Service (AKS) cluster. The deployments must meet the provisioning storage requirements shown in the following table.
 
 | deployment  | Requirement                                                             |
 | ----------- | ----------------------------------------------------------------------- |
