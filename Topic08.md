@@ -326,28 +326,6 @@ E. Add an Azure Resource Group Deployment task
 
 ---
 
-## Question 16
-
-You have an Azure DevOps project that contains a release pipeline and a Git repository.
-
-When a new code revision is committed to the repository, a build and release is triggered.
-
-You need to ensure that release information for the pipeline is added automatically to the work items associated to the Git commit.
-
-What should you do?
-
--   [ ] A. Modify the Integrations options for the pipeline.
--   [ ] B. Modify the post-deployment conditions for the last stage of the pipeline.
--   [ ] C. Add an agentless job to the pipeline.
--   [ ] D. Modify the service hooks for the project.
-
-<details>
-    <summary>answer</summary>
-    B. Modify the post-deployment conditions for the last stage of the pipeline.</br>
-</details>
-
----
-
 ## Question 18
 
 Your company has a release pipeline in an Azure DevOps project.
