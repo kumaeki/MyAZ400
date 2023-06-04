@@ -419,7 +419,9 @@ You are planning the release strategies for a new app.
 You need to choose strategies for the following scenarios:
 
 ✑ Releases will be made available to users who are grouped by their tolerance for software faults.
+
 ✑ Code will be deployed to enable functionality that will be available in later releases of the app.
+
 ✑ When a new release occurs, the existing deployment will remain active to minimize recovery time if a return to the previous version is required.
 
 Which strategy should you choose for each scenario?
@@ -459,11 +461,11 @@ You need to associate an automated test to a test case.
 
 Which three actions should you perform in sequence?
 
-A. Debug the project
-B. Create a test project
-C. Create a work item
-D. Check in a project to the Azure DevOps repository
-E. Add the automated test to a build pipeline
+- [ ] A. Debug the project
+- [ ] B. Create a test project
+- [ ] C. Create a work item
+- [ ] D. Check in a project to the Azure DevOps repository
+- [ ] E. Add the automated test to a build pipeline
 
 <details>
     <summary>answer</summary>
