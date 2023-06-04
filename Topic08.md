@@ -46,9 +46,9 @@ Which three commands should you recommend be run in sequence?
 <details>
     <summary>answer</summary>
     B. kubectl create<br/>
-    D. helm init<br/>
+    D. helm init (unneccessary)<br/>
     A. helm install</br>
-    <a href="https://learn.microsoft.com/en-us/azure/aks/kubernetes-helm"> Install existing applications with Helm in Azure Kubernetes Service (AKS) </a>
+    <a href="https://learn.microsoft.com/en-us/azure/aks/kubernetes-helm"> Install existing applications with Helm in Azure Kubernetes Service (AKS) </a><br/>
     <a href="https://v2.helm.sh/docs/install/#Upgrading%20Tiller">https://v2.helm.sh/docs/install/#Upgrading%20Tiller</a>
 </details>
 
