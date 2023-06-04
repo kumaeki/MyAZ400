@@ -353,6 +353,7 @@ Which service should you install?
 Your company plans to deploy an application to the following endpoints:
 
 ✑ Ten virtual machines hosted in Azure
+
 ✑ Ten virtual machines hosted in an on-premises data center environment
 
 All the virtual machines have the Azure Pipelines agent.
