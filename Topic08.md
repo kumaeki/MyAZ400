@@ -556,35 +556,6 @@ Which release strategy should you use for each application?
 
 ---
 
-## Question 33
-
-You have an Azure DevOps organization named Contoso.
-
-You have 10 Azure virtual machines that run Windows Server 2019. The virtual machines host an application that you build and deploy by using Azure Pipelines.
-
-Each virtual machine has the Web Server (IIS) role installed and configured.
-
-You need to ensure that the web server configurations on the virtual machines is maintained automatically. The solution must provide centralized management of the configuration settings and minimize management overhead.
-
-Which four actions should you perform in sequence?
-
--   [ ] A. Create an Azure Automation account
--   [ ] B. Install the custom Desired State Configuration (DSC) extension on the virtual machines
--   [ ] C. Create a .zip file and upload it to Azure Blob storage
--   [ ] D. Onboard the virtual machines to the Azure Automation account
--   [ ] E. compile the Desired State Configuration(DSC) configuration
-
-<details>
-    <summary>answer</summary>
-    A. Create an Azure Automation account<br/>
-    B. Install the custom Desired State Configuration (DSC) extension on the virtual machines<br/>
-    D. Onboard the virtual machines to the Azure Automation account<br/>
-    E. compile the Desired State Configuration(DSC) configuration<br/>
-    <a href="https://learn.microsoft.com/en-us/azure/automation/automation-dsc-getting-started">Get started with Azure Automation State Configuration</a>
-</details>
-
----
-
 ## Question 34
 
 You have a free tier of an Azure DevOps organization named Contoso. Contoso contains 10 private projects. Each project has multiple jobs with no dependencies. The build process requires access to resource files located in an on-premises file system.
