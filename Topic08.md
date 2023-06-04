@@ -625,7 +625,7 @@ What should you include in the template?
 
 <details>
     <summary>answer</summary>
-    Type : "Microsoft.Resources/deployment"<br/>
+    Type : "Microsoft.Resources/deployments"<br/>
     "TemplateLink"<br/>
     <a href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/linked-templates?tabs=azure-powershell#get-values-from-linked-template">Get values from linked template</a>
 </details>
