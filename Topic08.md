@@ -205,8 +205,11 @@ You are finalizing a release in GitHub.
 You need to apply the following labels to the release:
 
 ✑ Name
+
 ✑ Email
+
 ✑ Release v3.0
+
 ✑ Release date
 
 How should you complete the git command?
