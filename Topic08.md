@@ -23,7 +23,8 @@ How should you complete the commands?
 <details>
     <summary>answer</summary>
     AAAA : A. --aggressive<br/>
-    BBBB : B. prune
+    BBBB : B. prune<br/>
+    <a href = "https://git-scm.com/docs/git-gc">https://git-scm.com/docs/git-gc</a>
 </details>
 
 ---
