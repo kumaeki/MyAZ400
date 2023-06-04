@@ -307,9 +307,13 @@ As part of your application build process, you need to deploy a group of resourc
 Which three action should you perform in sequence?
 
 A. Set the template parameters
+
 B. Create a package
+
 C. Create a release pipeline
+
 D. Create a job agent
+
 E. Add an Azure Resource Group Deployment task
 
 <details>
