@@ -520,7 +520,7 @@ Does this meet the goal?
 
 <details>
     <summary>answer</summary>
-    B. No<br/>
+    A. Yes<br/>
 </details>
 
 ---
