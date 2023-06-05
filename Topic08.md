@@ -1238,10 +1238,11 @@ At which four scopes can the variables be defined, and what is the precedence of
 
 <details>
     <summary>answer</summary>
-    A. stage<br/>
     B. job<br/>
-    C. pipeline settings UI<br/>
+    A. stage<br/>
     D. pipeline root<br/>
+    C. pipeline settings UI<br/>
+    <a href = "[https://learn.microsoft.com/en-us/azure/devops/pipelines/process/variables?view=azure-devops&tabs=yaml%2Cbatch#variable-scopes](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/variables?view=azure-devops&tabs=yaml%2Cbatch)">Define variables</a>
 </details>
 
 ---
