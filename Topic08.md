@@ -1058,8 +1058,11 @@ You use GitHub for source control of .NET applications.
 You need to deploy a documentation solution that meets the following requirements:
 
 ✑ Documents will be written in Markdown as developers make code changes.
+
 ✑ Changes to the documents will trigger the recompilation of a static website.
+
 ✑ Users will access the documents from the static website.
+
 ✑ Documents will be stored in a GitHub repository.
 
 Which two tools can you use to compile the website? Each correct answer presents a complete solution.
