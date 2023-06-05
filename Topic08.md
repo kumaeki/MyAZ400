@@ -1375,8 +1375,8 @@ What should you do for each stage?
 <details>
     <summary>answer</summary>
     QA : A. Add a task to configure alert rules in Application Insights<br/>
-    or  D. Configure a post-deployment approval in the post-deployment conditions<br/>
     Prod : B. Configure a gate in the pre-development conditions<br/>
+    <a href="https://learn.microsoft.com/en-us/azure/azure-monitor/app/continuous-monitoring#configure-continuous-monitoring">Configure continuous monitoring</a>
 </details>
 
 ---
