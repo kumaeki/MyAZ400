@@ -923,6 +923,7 @@ You plan to use Desired State Configuration (DSC) to maintain the configuration 
 The server must have the following features installed:
 
 ✑ A web server
+
 ✑ An email server
 
 How should you complete the DSC configuration file?
@@ -1009,6 +1010,7 @@ You have an Azure subscription that contains multiple Azure pipelines.
 You need to deploy a monitoring solution for the pipelines. The solution must meet the following requirements:
 
 ✑ Parse logs from multiple sources.
+
 ✑ Identify the root cause of issues.
 
 What advanced feature of a monitoring tool should you include in the solution?
