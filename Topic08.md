@@ -1185,11 +1185,11 @@ You need to query the AppEvents table. The solution must meet the following requ
 
 In which order should you arrange the query statements?
 
-A. `| summarize NumberOfClicks = count() by bin(TimeGenerated, Id), UserId`
-B. `AppEvents`
-C. `| Top 10 by NumberOfCLicks desc`
-D. `| where NumberOfClicks >= 3`
-E. `| where Name starts with "clicked Created New Ticket"`
+- [ ] A. `| summarize NumberOfClicks = count() by bin(TimeGenerated, Id), UserId`
+- [ ] B. `AppEvents`
+- [ ] C. `| Top 10 by NumberOfCLicks desc`
+- [ ] D. `| where NumberOfClicks >= 3`
+- [ ] E. `| where Name starts with "clicked Created New Ticket"`
 
 <details>
     <summary>answer</summary>
