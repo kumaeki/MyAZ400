@@ -1193,11 +1193,11 @@ In which order should you arrange the query statements?
 
 <details>
     <summary>answer</summary>
-    B. AppEvents
-    E. `| where Name starts with "clicked Created New Ticket"`
-    A. `| summarize NumberOfClicks = count() by bin(TimeGenerated, Id), UserId`
-    D. `| where NumberOfClicks >= 3`
-    C. `| Top 10 by NumberOfCLicks desc`
+    B. AppEvents<br/>
+    E. `| where Name starts with "clicked Created New Ticket"`<br/>
+    A. `| summarize NumberOfClicks = count() by bin(TimeGenerated, Id), UserId`<br/>
+    D. `| where NumberOfClicks >= 3`<br/>
+    C. `| Top 10 by NumberOfCLicks desc`<br/>
 </details>
 
 ---
