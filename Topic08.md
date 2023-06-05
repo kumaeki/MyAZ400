@@ -1216,7 +1216,8 @@ You add the Azure Resource Manager (ARM) template deployment task shown in the f
 <details>
     <summary>answer</summary>
     Deployment mode<br/>
-    location specified in the Linked artifact variable
+    location specified in the Linked artifact variable<br/>
+    <a href = "https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/deployment-modes">Azure Resource Manager deployment modes</a>
 </details>
 
 ---
