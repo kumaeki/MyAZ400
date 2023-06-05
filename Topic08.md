@@ -1174,9 +1174,13 @@ You have an app named App1. You have a Log Analytics workspace named Workspace1 
 You need to query the AppEvents table. The solution must meet the following requirements:
 
 ✑ Only query rows for a column named Name that starts with the following text: "Clicked Create New Ticket."
+
 ✑ Calculate the number of daily clicks per user.
+
 ✑ Return the top 10 users based on their number of clicks for any day.
+
 ✑ Sort the results based on the highest number of clicks.
+
 ✑ Ignore any users who have less than three daily clicks.
 
 In which order should you arrange the query statements?
