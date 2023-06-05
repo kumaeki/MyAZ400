@@ -1321,9 +1321,10 @@ How should you complete the query?
 
 <details>
     <summary>answer</summary>
-    Resource<br/>
+    Category<br/>
     OperationName<br/>
     ResultType<br/>
+    <a href="[https://learn.microsoft.com/en-us/azure/automation/automation-dsc-diagnostics](https://learn.microsoft.com/en-us/azure/automation/automation-dsc-diagnostics#view-the-state-configuration-logs)">View the State Configuration logs</a>
 </details>
 
 ---
