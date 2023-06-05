@@ -697,31 +697,6 @@ What should you do?
 
 ---
 
-## Question 41
-
-You are developing an iOS application by using Azure DevOps.
-
-You need to test the application manually on 10 devices without releasing the application to the public.
-
-Which two actions should you perform?
-
--   [ ] A. Create a Microsoft Intune device compliance policy.
--   [ ] B. Deploy a certificate from an internal certification authority (CA) to each device.
--   [ ] C. Register the application in the iTunes store.
--   [ ] D. Onboard the devices into Microsoft Intune.
--   [ ] E. Distribute a new release of the application.
--   [ ] F. Register the IDs of the devices in the Apple Developer portal.
-
-<details>
-    <summary>answer</summary>
-    F. Register the IDs of the devices in the Apple Developer portal.<br/>
-    D or E ? I'm not sure.<br/>
-    <a href = "https://learn.microsoft.com/en-us/appcenter/distribution/auto-provisioning"> Device registration and app re-signing </a>
-
-</details>
-
----
-
 ## Question 42
 
 You have a private distribution group that contains provisioned and unprovisioned devices.
