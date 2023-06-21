@@ -143,6 +143,24 @@ What should you use?
 
 ---
 
+## Question 6
+
+You need to the merge the POC branch into the default branch. The solution must meet the technical requirements.
+
+Which command should you run?
+
+- [ ] A. git rebase
+- [ ] B. git merge --squash
+- [ ] C. git push
+- [ ] D. git merge --allow-unrelated-histories
+
+
+<details>
+    <summary>answer</summary>
+    A. git rebase<br/>
+</details>
+
+---
 
 ## Question 2
 
@@ -197,25 +215,6 @@ What should you use?
 <details>
     <summary>answer</summary>
     B. Azure Application Insights<br/>
-</details>
-
----
-
-## Question 8
-
-You need to the merge the POC branch into the default branch. The solution must meet the technical requirements.
-
-Which command should you run?
-
-- [ ] A. git rebase
-- [ ] B. git merge --squash
-- [ ] C. git push
-- [ ] D. git merge --allow-unrelated-histories
-
-
-<details>
-    <summary>answer</summary>
-    A. git rebase<br/>
 </details>
 
 ---
