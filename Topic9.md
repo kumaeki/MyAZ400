@@ -67,7 +67,7 @@ Which two settings should you configure?
 
 ---
 
-## Question 5
+## Question 2
 
 You need to meet the technical requirements for controlling access to Azure DevOps.
 
@@ -85,7 +85,7 @@ What should you use?
 
 ---
 
-## Question 6
+## Question 3
 
 You need to configure Azure Pipelines to control App2 builds.
 
@@ -99,6 +99,28 @@ Which authentication method should you use?
 <details>
     <summary>answer</summary>
     D. personal access token (PAT)<br/>
+</details>
+
+---
+
+
+## Question 4
+
+You need to configure authentication for App1. The solution must support the planned changes.
+
+Which three actions should you perform in sequence? 
+
+-   [ ] A. Create an app
+-   [ ] B. Add a secret
+-   [ ] C. Create a credential
+-   [ ] D. Configure the ID and secret for App 1
+-   [ ] E. Create a managed service identity
+
+<details>
+    <summary>answer</summary>
+    A. Create an app<br/>
+    B. Add a secret<br/>
+    D. Configure the ID and secret for App 1<br/>
 </details>
 
 ---
