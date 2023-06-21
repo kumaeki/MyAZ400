@@ -67,6 +67,8 @@ How should you complete the code to initialize App Center in the mobile applicat
 
 ## Question 2
 
+####wrong image, not need to wasting time here, please refer to question 7
+
 How should you configure the release retention policy for the investment planning depletions suite?
 ![image](image/topic11-q02-01.png)
 
