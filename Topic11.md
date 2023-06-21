@@ -67,9 +67,10 @@ How should you complete the code to initialize App Center in the mobile applicat
 
 ## Question 2
 
-#### wrong image, not need to wasting time here, please refer to question 7
+You need to configure a cloud service to store the secrets required by the mobile applications to call the share pricing service.
 
-How should you configure the release retention policy for the investment planning depletions suite?
+What should you include in the solution?
+
 ![image](image/topic11-q02-01.png)
 
 <details>
