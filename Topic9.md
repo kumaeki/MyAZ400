@@ -103,6 +103,24 @@ Which widget should you use for each metric?
 
 ---
 
+## Question 6
+
+You need to configure Azure Pipelines to control App2 builds.
+
+Which authentication method should you use?
+
+-   [ ] A. Windows NTLM
+-   [ ] B. certificate
+-   [ ] C. SAML
+-   [ ] D. personal access token (PAT)
+
+<details>
+    <summary>answer</summary>
+    D. personal access token (PAT)<br/>
+</details>
+
+---
+
 ## Question 3
 
 You plan to deploy a new database environment. The solution must meet the technical requirements.
@@ -144,23 +162,7 @@ What should you use?
 
 ---
 
-## Question 6
 
-You need to configure Azure Pipelines to control App2 builds.
-
-Which authentication method should you use?
-
--   [ ] A. Windows NTLM
--   [ ] B. certificate
--   [ ] C. SAML
--   [ ] D. personal access token (PAT)
-
-<details>
-    <summary>answer</summary>
-    D. personal access token (PAT)<br/>
-</details>
-
----
 
 ## Question 7
 
