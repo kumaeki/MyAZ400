@@ -85,24 +85,6 @@ What should you use?
 
 ---
 
-## Question 2
-
-You are configuring the Azure DevOps dashboard. The solution must meet the technical requirements.
-
-Which widget should you use for each metric?
-
-![image](image/topic9-q02-01.png)
-
-<details>
-    <summary>answer</summary>
-    1 : Velocity<br/>
-    2 : Release pipeline overview<br/>
-    3 : Query tile<br/>
-    <a href="https://learn.microsoft.com/en-us/azure/devops/report/dashboards/widget-catalog?view=azure-devops#query-tile-widget">query-tile</a>
-</details>
-
----
-
 ## Question 6
 
 You need to configure Azure Pipelines to control App2 builds.
@@ -117,6 +99,24 @@ Which authentication method should you use?
 <details>
     <summary>answer</summary>
     D. personal access token (PAT)<br/>
+</details>
+
+---
+
+## Question 2
+
+You are configuring the Azure DevOps dashboard. The solution must meet the technical requirements.
+
+Which widget should you use for each metric?
+
+![image](image/topic9-q02-01.png)
+
+<details>
+    <summary>answer</summary>
+    1 : Velocity<br/>
+    2 : Release pipeline overview<br/>
+    3 : Query tile<br/>
+    <a href="https://learn.microsoft.com/en-us/azure/devops/report/dashboards/widget-catalog?view=azure-devops#query-tile-widget">query-tile</a>
 </details>
 
 ---
