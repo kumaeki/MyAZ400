@@ -67,6 +67,24 @@ Which two settings should you configure?
 
 ---
 
+## Question 5
+
+You need to meet the technical requirements for controlling access to Azure DevOps.
+
+What should you use?
+
+-   [ ] A. Azure Multi-Factor Authentication (MFA)
+-   [ ] B. on-premises firewall rules
+-   [ ] C. conditional access policies in Azure AD
+-   [ ] D. Azure role-based access control (Azure RBAC)
+
+<details>
+    <summary>answer</summary>
+    C. conditional access policies in Azure AD<br/>
+</details>
+
+---
+
 ## Question 2
 
 You are configuring the Azure DevOps dashboard. The solution must meet the technical requirements.
@@ -122,23 +140,7 @@ What should you use?
     B. Azure Application Insights<br/>
 </details>
 
----
 
-## Question 5
-
-You need to meet the technical requirements for controlling access to Azure DevOps.
-
-What should you use?
-
--   [ ] A. Azure Multi-Factor Authentication (MFA)
--   [ ] B. on-premises firewall rules
--   [ ] C. conditional access policies in Azure AD
--   [ ] D. Azure role-based access control (Azure RBAC)
-
-<details>
-    <summary>answer</summary>
-    C. conditional access policies in Azure AD<br/>
-</details>
 
 ---
 
