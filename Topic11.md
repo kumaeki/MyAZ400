@@ -75,8 +75,8 @@ What should you include in the solution?
 
 <details>
     <summary>answer</summary>
-    Shared Access Authorization token<br/>
-    Azure storage with HTTPS access<br/>
+    Username and Password<br/>
+    Azure Key Vault<br/>
 </details>
 
 ---
