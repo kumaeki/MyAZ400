@@ -125,6 +125,25 @@ Which three actions should you perform in sequence?
 
 ---
 
+## Question 5
+
+You need to replace the existing DevOps tools to support the planned changes.
+
+What should you use?
+
+![image](image/topic9-q07-01.png)
+
+
+<details>
+    <summary>answer</summary>
+    Trello : Azure Boards<br/>
+    Bamboo : Azure Pipelines<br/>
+    BitBucket : GitHub repositories<br/>
+</details>
+
+---
+
+
 ## Question 2
 
 You are configuring the Azure DevOps dashboard. The solution must meet the technical requirements.
@@ -178,28 +197,6 @@ What should you use?
 <details>
     <summary>answer</summary>
     B. Azure Application Insights<br/>
-</details>
-
-
-
----
-
-
-
-## Question 7
-
-You need to replace the existing DevOps tools to support the planned changes.
-
-What should you use?
-
-![image](image/topic9-q07-01.png)
-
-
-<details>
-    <summary>answer</summary>
-    Trello : Azure Boards<br/>
-    Bamboo : Azure Pipelines<br/>
-    BitBucket : GitHub repositories<br/>
 </details>
 
 ---
