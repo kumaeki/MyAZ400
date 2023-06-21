@@ -84,6 +84,7 @@ What should you include in the solution?
 ## Question 3
 
 Which package feed access levels should be assigned to the Developers and Team Leaders groups for the investment planning applications suite?
+
 ![image](image/topic11-q03-01.png)
 
 <details>
