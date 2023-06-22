@@ -183,7 +183,9 @@ What should you use?
 ---
 
 
-## Question 2
+## Question 8
+
+#### have no idea what this question means!!!!!
 
 You are configuring the Azure DevOps dashboard. The solution must meet the technical requirements.
 
@@ -201,7 +203,7 @@ Which widget should you use for each metric?
 
 ---
 
-## Question 3
+## Question 9
 
 You plan to deploy a new database environment. The solution must meet the technical requirements.
 
@@ -222,7 +224,7 @@ How should you format the export?
 
 ---
 
-## Question 4
+## Question 10
 
 You need to meet the technical requirements for monitoring App1.
 
