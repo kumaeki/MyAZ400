@@ -162,6 +162,27 @@ Which command should you run?
 
 ---
 
+## Question 7
+
+You need to perform the GitHub code migration. The solution must support the planned changes for the DevOps environment.
+
+What should you use?
+
+- [ ] A. git clone
+- [ ] B. GitHub Importer
+- [ ] C. Import repository in Azure Repos
+- [ ] D. git-tfs
+
+
+<details>
+    <summary>answer</summary>
+    D. git-tfs<br/>
+    <a href="https://learn.microsoft.com/en-us/devops/develop/git/migrate-from-tfvc-to-git">Migrate from TFVC to Git</a>
+</details>
+
+---
+
+
 ## Question 2
 
 You are configuring the Azure DevOps dashboard. The solution must meet the technical requirements.
@@ -215,26 +236,6 @@ What should you use?
 <details>
     <summary>answer</summary>
     B. Azure Application Insights<br/>
-</details>
-
----
-
-## Question 9
-
-You need to perform the GitHub code migration. The solution must support the planned changes for the DevOps environment.
-
-What should you use?
-
-- [ ] A. git clone
-- [ ] B. GitHub Importer
-- [ ] C. Import repository in Azure Repos
-- [ ] D. git-tfs
-
-
-<details>
-    <summary>answer</summary>
-    D. git-tfs<br/>
-    <a href="https://learn.microsoft.com/en-us/devops/develop/git/migrate-from-tfvc-to-git">Migrate from TFVC to Git</a>
 </details>
 
 ---
