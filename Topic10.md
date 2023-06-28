@@ -41,7 +41,8 @@ Woodgrove Bank identifies the following technical requirements:
 
     -   Be triggered when average CPU usage exceeds 80 percent for 15 minutes.
     -   Calculate CPU usage averages once every minute.
-    -   The commit history of the POC branch must replace the history of the default branch
+
+-   The commit history of the POC branch must replace the history of the default branch
 
 -   The Azure DevOps dashboard must display the metrics shown in the following table.
     ![image](image/topic9-q01-01.png)
