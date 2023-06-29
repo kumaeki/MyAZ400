@@ -70,9 +70,9 @@ Which three actions should you perform in sequence?
 
 <details>
     <summary>answer</summary>
-    Create a repository<br/>
     Create a fork<br/>
-    Add a build policy for the fork<br/>
+    Create a branch<br/>
+    Add a build policy for the master branch<br/>
 </details>
 
 ---
