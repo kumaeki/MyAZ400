@@ -139,7 +139,7 @@ What should you use to implement the code quality restriction on the release pip
 
 <details>
     <summary>answer</summary>
-    A. a pre-deployment approval<br/>
+    B. a deployment gate<br/>
 </details>
 
 ---
